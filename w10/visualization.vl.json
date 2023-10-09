@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 400,
+  "title": {"text": "Tokyo 2021 Olympics Gender Breakdown", "fontSize": 24},
+  "data": {
+    "url": "https://raw.githubusercontent.com/mattuser12/3179/main/work/EntriesGender.csv"
+  },
+  "transform": [
+    {
+      "calculate": "format(datum.Male / datum.Total * 100, '.1f')",
+      "as": "Male Ratio"
+    },
+    {
+      "calculate": "format(datum.Female / datum.Total * 100, '.1f')",
+      "as": "Female Ratio"
+    }
+  ],
+  "params": [
+    {
+      "name": "highlight",
+      "select": {"type": "point", "fields": ["Category"]},
+      "bind": "legend"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Discipline",
+      "type": "nominal",
+      "title": "Sport",
+      "sort": "-y"
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "Total",
+      "type": "quantitative",
+      "title": "Athlete Count"
+    },
+    "color": {
+      "field": "Category",
+      "type": "nominal",
+      "title": "Category",
+      "scale": {
+        "domain": ["Team", "Individual"],
+        "range": ["#2b8cbe", "#756bb1"]
+      }
+    },
+    "order": {"aggregate": "sum", "field": "Total", "type": "quantitative"},
+    "opacity": {
+      "condition": {"param": "highlight", "value": 0.6},
+      "value": 0.2
+    },
+    "tooltip": [
+      {"field": "Discipline", "type": "nominal", "title": "Sport"},
+      {
+        "field": "Male Ratio",
+        "type": "quantitative",
+        "title": "% of Athletes Male"
+      },
+      {
+        "field": "Female Ratio",
+        "type": "quantitative",
+        "title": "% of Athletes Female"
+      },
+      {"field": "Category", "type": "nominal", "title": "Category"}
+    ]
+  },
+  "config": {"axis": {"labelFontSize": 12, "titleFontSize": 16}}
+}
