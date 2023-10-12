@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 1000,
+  "title": {"text": "Tokyo 2021 Olympics Gender Breakdown", "fontSize": 24},
+  "data": {
+    "url": "https://raw.githubusercontent.com/mattuser12/3179/main/work/Medals.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "Team/NOC",
+      "type": "nominal",
+      "title": "Country",
+      "sort": "-x"
+    },
+    "x": {
+      "aggregate": "sum",
+      "field": "Total",
+      "type": "quantitative",
+      "title": "Medal Count"
+    },
+    "color": {
+      "field": "Total",
+      "type": "quantitative",
+      "title": "Medal Count",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "Team/NOC", "type": "nominal", "title": "Country"},
+      {"field": "Bronze", "type": "quantitative", "title": "Bronze Medals"},
+      {"field": "Silver", "type": "quantitative", "title": "Silver Medals"},
+      {"field": "Gold", "type": "quantitative", "title": "Gold Medals"}
+    ]
+  },
+  "config": {"axis": {"labelFontSize": 12, "titleFontSize": 16}}
+}
