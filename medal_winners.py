@@ -8,6 +8,6 @@ df.dropna(subset = ['Medal', 'Sport', 'Height', 'Age'], inplace = True)
 
 df = df.drop_duplicates(subset="ID", keep="first")
 
-print(df['Sport'].nlargest(10))
+print(pd.to_numeric(df['Age'], errors='coerce').isnull().sum())
 
 #df.to_csv("Medal Winners.csv", index=False)
