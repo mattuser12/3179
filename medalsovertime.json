@@ -11,15 +11,19 @@
     
     "transform": [
         {
+            "filter": "datum.Year == '2000'"
+        },
+        {
             "lookup": "noc",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Medal%20Count%20Each%20Year.csv"
+                    "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Medal%20Count%20Each%20Year%20c.csv"
                 },
-                "key": "NOC",
+                "key": "Team",
                 "fields": ["Medal"]
             }
-        }
+        },
+        {"calculate": "datum.Medal || datum.Medal + 0.1", "as": "Medals"}
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
