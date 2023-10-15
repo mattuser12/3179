@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Olympics.csv"},
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": "Player_Count",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "Sex",
+        "type": "ordinal"
+      }
+    }
+  }

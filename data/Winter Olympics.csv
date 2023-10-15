@@ -1,45 +1,45 @@
-,Year,Season,Sex,Player_Count
-15,1924,Winter,F,17
-16,1924,Winter,M,443
-19,1928,Winter,F,33
-20,1928,Winter,M,549
-23,1932,Winter,F,22
-24,1932,Winter,M,330
-27,1936,Winter,F,81
-28,1936,Winter,M,814
-31,1948,Winter,F,133
-32,1948,Winter,M,942
-35,1952,Winter,F,185
-36,1952,Winter,M,903
-39,1956,Winter,F,246
-40,1956,Winter,M,1061
-43,1960,Winter,F,295
-44,1960,Winter,M,821
-47,1964,Winter,F,404
-48,1964,Winter,M,1374
-51,1968,Winter,F,416
-52,1968,Winter,M,1475
-55,1972,Winter,F,415
-56,1972,Winter,M,1240
-59,1976,Winter,F,434
-60,1976,Winter,M,1427
-63,1980,Winter,F,430
-64,1980,Winter,M,1316
-67,1984,Winter,F,536
-68,1984,Winter,M,1598
-71,1988,Winter,F,680
-72,1988,Winter,M,1959
-75,1992,Winter,F,1054
-76,1992,Winter,M,2382
-77,1994,Winter,F,1105
-78,1994,Winter,M,2055
-81,1998,Winter,F,1384
-82,1998,Winter,M,2221
-85,2002,Winter,F,1582
-86,2002,Winter,M,2527
-89,2006,Winter,F,1757
-90,2006,Winter,M,2625
-93,2010,Winter,F,1847
-94,2010,Winter,M,2555
-97,2014,Winter,F,2023
-98,2014,Winter,M,2868
+,Year,Season,Sex,City,Player_Count
+15,1924,Winter,F,Chamonix,17
+16,1924,Winter,M,Chamonix,443
+19,1928,Winter,F,Sankt Moritz,33
+20,1928,Winter,M,Sankt Moritz,549
+23,1932,Winter,F,Lake Placid,22
+24,1932,Winter,M,Lake Placid,330
+27,1936,Winter,F,Garmisch-Partenkirchen,81
+28,1936,Winter,M,Garmisch-Partenkirchen,814
+31,1948,Winter,F,Sankt Moritz,133
+32,1948,Winter,M,Sankt Moritz,942
+35,1952,Winter,F,Oslo,185
+36,1952,Winter,M,Oslo,903
+41,1956,Winter,F,Cortina d'Ampezzo,246
+42,1956,Winter,M,Cortina d'Ampezzo,1061
+45,1960,Winter,F,Squaw Valley,295
+46,1960,Winter,M,Squaw Valley,821
+49,1964,Winter,F,Innsbruck,404
+50,1964,Winter,M,Innsbruck,1374
+53,1968,Winter,F,Grenoble,416
+54,1968,Winter,M,Grenoble,1475
+57,1972,Winter,F,Sapporo,415
+58,1972,Winter,M,Sapporo,1240
+61,1976,Winter,F,Innsbruck,434
+62,1976,Winter,M,Innsbruck,1427
+65,1980,Winter,F,Lake Placid,430
+66,1980,Winter,M,Lake Placid,1316
+69,1984,Winter,F,Sarajevo,536
+70,1984,Winter,M,Sarajevo,1598
+73,1988,Winter,F,Calgary,680
+74,1988,Winter,M,Calgary,1959
+77,1992,Winter,F,Albertville,1054
+78,1992,Winter,M,Albertville,2382
+79,1994,Winter,F,Lillehammer,1105
+80,1994,Winter,M,Lillehammer,2055
+83,1998,Winter,F,Nagano,1384
+84,1998,Winter,M,Nagano,2221
+87,2002,Winter,F,Salt Lake City,1582
+88,2002,Winter,M,Salt Lake City,2527
+91,2006,Winter,F,Torino,1757
+92,2006,Winter,M,Torino,2625
+95,2010,Winter,F,Vancouver,1847
+96,2010,Winter,M,Vancouver,2555
+99,2014,Winter,F,Sochi,2023
+100,2014,Winter,M,Sochi,2868
