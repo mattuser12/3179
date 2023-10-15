@@ -1,367 +1,235 @@
-,Year,Season,Sex,City,Sport,Player_Count
-173,1924,Winter,F,Chamonix,Figure Skating,17
-174,1924,Winter,M,Chamonix,Alpinism,21
-175,1924,Winter,M,Chamonix,Bobsleigh,39
-176,1924,Winter,M,Chamonix,Cross Country Skiing,74
-177,1924,Winter,M,Chamonix,Curling,16
-178,1924,Winter,M,Chamonix,Figure Skating,20
-179,1924,Winter,M,Chamonix,Ice Hockey,82
-180,1924,Winter,M,Chamonix,Military Ski Patrol,24
-181,1924,Winter,M,Chamonix,Nordic Combined,30
-182,1924,Winter,M,Chamonix,Ski Jumping,27
-183,1924,Winter,M,Chamonix,Speed Skating,110
-208,1928,Winter,F,Sankt Moritz,Figure Skating,33
-209,1928,Winter,M,Sankt Moritz,Bobsleigh,116
-210,1928,Winter,M,Sankt Moritz,Cross Country Skiing,90
-211,1928,Winter,M,Sankt Moritz,Figure Skating,30
-212,1928,Winter,M,Sankt Moritz,Ice Hockey,124
-213,1928,Winter,M,Sankt Moritz,Nordic Combined,35
-214,1928,Winter,M,Sankt Moritz,Skeleton,10
-215,1928,Winter,M,Sankt Moritz,Ski Jumping,38
-216,1928,Winter,M,Sankt Moritz,Speed Skating,106
-240,1932,Winter,F,Lake Placid,Figure Skating,22
-241,1932,Winter,M,Lake Placid,Bobsleigh,52
-242,1932,Winter,M,Lake Placid,Cross Country Skiing,74
-243,1932,Winter,M,Lake Placid,Figure Skating,19
-244,1932,Winter,M,Lake Placid,Ice Hockey,48
-245,1932,Winter,M,Lake Placid,Nordic Combined,33
-246,1932,Winter,M,Lake Placid,Ski Jumping,34
-247,1932,Winter,M,Lake Placid,Speed Skating,70
-280,1936,Winter,F,Garmisch-Partenkirchen,Alpine Skiing,37
-281,1936,Winter,F,Garmisch-Partenkirchen,Figure Skating,44
-282,1936,Winter,M,Garmisch-Partenkirchen,Alpine Skiing,66
-283,1936,Winter,M,Garmisch-Partenkirchen,Bobsleigh,118
-284,1936,Winter,M,Garmisch-Partenkirchen,Cross Country Skiing,175
-285,1936,Winter,M,Garmisch-Partenkirchen,Figure Skating,43
-286,1936,Winter,M,Garmisch-Partenkirchen,Ice Hockey,173
-287,1936,Winter,M,Garmisch-Partenkirchen,Nordic Combined,51
-288,1936,Winter,M,Garmisch-Partenkirchen,Ski Jumping,48
-289,1936,Winter,M,Garmisch-Partenkirchen,Speed Skating,140
-317,1948,Winter,F,Sankt Moritz,Alpine Skiing,93
-318,1948,Winter,F,Sankt Moritz,Figure Skating,40
-319,1948,Winter,M,Sankt Moritz,Alpine Skiing,267
-320,1948,Winter,M,Sankt Moritz,Bobsleigh,92
-321,1948,Winter,M,Sankt Moritz,Cross Country Skiing,156
-322,1948,Winter,M,Sankt Moritz,Figure Skating,31
-323,1948,Winter,M,Sankt Moritz,Ice Hockey,139
-324,1948,Winter,M,Sankt Moritz,Nordic Combined,39
-325,1948,Winter,M,Sankt Moritz,Skeleton,15
-326,1948,Winter,M,Sankt Moritz,Ski Jumping,49
-327,1948,Winter,M,Sankt Moritz,Speed Skating,154
-355,1952,Winter,F,Oslo,Alpine Skiing,127
-356,1952,Winter,F,Oslo,Cross Country Skiing,20
-357,1952,Winter,F,Oslo,Figure Skating,38
-358,1952,Winter,M,Oslo,Alpine Skiing,251
-359,1952,Winter,M,Oslo,Bobsleigh,96
-360,1952,Winter,M,Oslo,Cross Country Skiing,168
-361,1952,Winter,M,Oslo,Figure Skating,27
-362,1952,Winter,M,Oslo,Ice Hockey,147
-363,1952,Winter,M,Oslo,Nordic Combined,25
-364,1952,Winter,M,Oslo,Ski Jumping,44
-365,1952,Winter,M,Oslo,Speed Skating,145
-392,1956,Winter,F,Cortina d'Ampezzo,Alpine Skiing,144
-393,1956,Winter,F,Cortina d'Ampezzo,Cross Country Skiing,70
-394,1956,Winter,F,Cortina d'Ampezzo,Figure Skating,32
-395,1956,Winter,M,Cortina d'Ampezzo,Alpine Skiing,259
-396,1956,Winter,M,Cortina d'Ampezzo,Bobsleigh,135
-397,1956,Winter,M,Cortina d'Ampezzo,Cross Country Skiing,205
-398,1956,Winter,M,Cortina d'Ampezzo,Figure Skating,27
-399,1956,Winter,M,Cortina d'Ampezzo,Ice Hockey,169
-400,1956,Winter,M,Cortina d'Ampezzo,Nordic Combined,36
-401,1956,Winter,M,Cortina d'Ampezzo,Ski Jumping,51
-402,1956,Winter,M,Cortina d'Ampezzo,Speed Skating,179
-430,1960,Winter,F,Squaw Valley,Alpine Skiing,129
-431,1960,Winter,F,Squaw Valley,Cross Country Skiing,39
-432,1960,Winter,F,Squaw Valley,Figure Skating,39
-433,1960,Winter,F,Squaw Valley,Speed Skating,88
-434,1960,Winter,M,Squaw Valley,Alpine Skiing,191
-435,1960,Winter,M,Squaw Valley,Biathlon,30
-436,1960,Winter,M,Squaw Valley,Cross Country Skiing,177
-437,1960,Winter,M,Squaw Valley,Figure Skating,32
-438,1960,Winter,M,Squaw Valley,Ice Hockey,152
-439,1960,Winter,M,Squaw Valley,Nordic Combined,33
-440,1960,Winter,M,Squaw Valley,Ski Jumping,45
-441,1960,Winter,M,Squaw Valley,Speed Skating,161
-472,1964,Winter,F,Innsbruck,Alpine Skiing,135
-473,1964,Winter,F,Innsbruck,Cross Country Skiing,91
-474,1964,Winter,F,Innsbruck,Figure Skating,47
-475,1964,Winter,F,Innsbruck,Luge,17
-476,1964,Winter,F,Innsbruck,Speed Skating,114
-477,1964,Winter,M,Innsbruck,Alpine Skiing,276
-478,1964,Winter,M,Innsbruck,Biathlon,51
-479,1964,Winter,M,Innsbruck,Bobsleigh,117
-480,1964,Winter,M,Innsbruck,Cross Country Skiing,241
-481,1964,Winter,M,Innsbruck,Figure Skating,41
-482,1964,Winter,M,Innsbruck,Ice Hockey,270
-483,1964,Winter,M,Innsbruck,Luge,68
-484,1964,Winter,M,Innsbruck,Nordic Combined,32
-485,1964,Winter,M,Innsbruck,Ski Jumping,105
-486,1964,Winter,M,Innsbruck,Speed Skating,173
-516,1968,Winter,F,Grenoble,Alpine Skiing,135
-517,1968,Winter,F,Grenoble,Cross Country Skiing,92
-518,1968,Winter,F,Grenoble,Figure Skating,50
-519,1968,Winter,F,Grenoble,Luge,26
-520,1968,Winter,F,Grenoble,Speed Skating,113
-521,1968,Winter,M,Grenoble,Alpine Skiing,287
-522,1968,Winter,M,Grenoble,Biathlon,116
-523,1968,Winter,M,Grenoble,Bobsleigh,120
-524,1968,Winter,M,Grenoble,Cross Country Skiing,252
-525,1968,Winter,M,Grenoble,Figure Skating,46
-526,1968,Winter,M,Grenoble,Ice Hockey,250
-527,1968,Winter,M,Grenoble,Luge,80
-528,1968,Winter,M,Grenoble,Nordic Combined,41
-529,1968,Winter,M,Grenoble,Ski Jumping,116
-530,1968,Winter,M,Grenoble,Speed Skating,167
-564,1972,Winter,F,Sapporo,Alpine Skiing,125
-565,1972,Winter,F,Sapporo,Cross Country Skiing,118
-566,1972,Winter,F,Sapporo,Figure Skating,35
-567,1972,Winter,F,Sapporo,Luge,22
-568,1972,Winter,F,Sapporo,Speed Skating,115
-569,1972,Winter,M,Sapporo,Alpine Skiing,200
-570,1972,Winter,M,Sapporo,Biathlon,106
-571,1972,Winter,M,Sapporo,Bobsleigh,114
-572,1972,Winter,M,Sapporo,Cross Country Skiing,217
-573,1972,Winter,M,Sapporo,Figure Skating,33
-574,1972,Winter,M,Sapporo,Ice Hockey,208
-575,1972,Winter,M,Sapporo,Luge,85
-576,1972,Winter,M,Sapporo,Nordic Combined,40
-577,1972,Winter,M,Sapporo,Ski Jumping,108
-578,1972,Winter,M,Sapporo,Speed Skating,129
-616,1976,Winter,F,Innsbruck,Alpine Skiing,125
-617,1976,Winter,F,Innsbruck,Cross Country Skiing,124
-618,1976,Winter,F,Innsbruck,Figure Skating,53
-619,1976,Winter,F,Innsbruck,Luge,26
-620,1976,Winter,F,Innsbruck,Speed Skating,106
-621,1976,Winter,M,Innsbruck,Alpine Skiing,265
-622,1976,Winter,M,Innsbruck,Biathlon,112
-623,1976,Winter,M,Innsbruck,Bobsleigh,133
-624,1976,Winter,M,Innsbruck,Cross Country Skiing,271
-625,1976,Winter,M,Innsbruck,Figure Skating,52
-626,1976,Winter,M,Innsbruck,Ice Hockey,217
-627,1976,Winter,M,Innsbruck,Luge,93
-628,1976,Winter,M,Innsbruck,Nordic Combined,34
-629,1976,Winter,M,Innsbruck,Ski Jumping,109
-630,1976,Winter,M,Innsbruck,Speed Skating,141
-669,1980,Winter,F,Lake Placid,Alpine Skiing,123
-670,1980,Winter,F,Lake Placid,Cross Country Skiing,108
-671,1980,Winter,F,Lake Placid,Figure Skating,45
-672,1980,Winter,F,Lake Placid,Luge,26
-673,1980,Winter,F,Lake Placid,Speed Skating,128
-674,1980,Winter,M,Lake Placid,Alpine Skiing,204
-675,1980,Winter,M,Lake Placid,Biathlon,159
-676,1980,Winter,M,Lake Placid,Bobsleigh,108
-677,1980,Winter,M,Lake Placid,Cross Country Skiing,201
-678,1980,Winter,M,Lake Placid,Figure Skating,40
-679,1980,Winter,M,Lake Placid,Ice Hockey,239
-680,1980,Winter,M,Lake Placid,Luge,68
-681,1980,Winter,M,Lake Placid,Nordic Combined,31
-682,1980,Winter,M,Lake Placid,Ski Jumping,98
-683,1980,Winter,M,Lake Placid,Speed Skating,168
-725,1984,Winter,F,Sarajevo,Alpine Skiing,131
-726,1984,Winter,F,Sarajevo,Cross Country Skiing,192
-727,1984,Winter,F,Sarajevo,Figure Skating,57
-728,1984,Winter,F,Sarajevo,Luge,27
-729,1984,Winter,F,Sarajevo,Speed Skating,129
-730,1984,Winter,M,Sarajevo,Alpine Skiing,270
-731,1984,Winter,M,Sarajevo,Biathlon,195
-732,1984,Winter,M,Sarajevo,Bobsleigh,152
-733,1984,Winter,M,Sarajevo,Cross Country Skiing,285
-734,1984,Winter,M,Sarajevo,Figure Skating,57
-735,1984,Winter,M,Sarajevo,Ice Hockey,239
-736,1984,Winter,M,Sarajevo,Luge,62
-737,1984,Winter,M,Sarajevo,Nordic Combined,28
-738,1984,Winter,M,Sarajevo,Ski Jumping,111
-739,1984,Winter,M,Sarajevo,Speed Skating,199
-785,1988,Winter,F,Calgary,Alpine Skiing,241
-786,1988,Winter,F,Calgary,Cross Country Skiing,210
-787,1988,Winter,F,Calgary,Figure Skating,66
-788,1988,Winter,F,Calgary,Luge,24
-789,1988,Winter,F,Calgary,Speed Skating,139
-790,1988,Winter,M,Calgary,Alpine Skiing,427
-791,1988,Winter,M,Calgary,Biathlon,207
-792,1988,Winter,M,Calgary,Bobsleigh,186
-793,1988,Winter,M,Calgary,Cross Country Skiing,318
-794,1988,Winter,M,Calgary,Figure Skating,63
-795,1988,Winter,M,Calgary,Ice Hockey,265
-796,1988,Winter,M,Calgary,Luge,74
-797,1988,Winter,M,Calgary,Nordic Combined,75
-798,1988,Winter,M,Calgary,Ski Jumping,157
-799,1988,Winter,M,Calgary,Speed Skating,187
-849,1992,Winter,F,Albertville,Alpine Skiing,261
-850,1992,Winter,F,Albertville,Biathlon,185
-851,1992,Winter,F,Albertville,Cross Country Skiing,282
-852,1992,Winter,F,Albertville,Figure Skating,66
-853,1992,Winter,F,Albertville,Freestyle Skiing,24
-854,1992,Winter,F,Albertville,Luge,24
-855,1992,Winter,F,Albertville,Short Track Speed Skating,59
-856,1992,Winter,F,Albertville,Speed Skating,153
-857,1992,Winter,M,Albertville,Alpine Skiing,489
-858,1992,Winter,M,Albertville,Biathlon,272
-859,1992,Winter,M,Albertville,Bobsleigh,216
-860,1992,Winter,M,Albertville,Cross Country Skiing,435
-861,1992,Winter,M,Albertville,Figure Skating,67
-862,1992,Winter,M,Albertville,Freestyle Skiing,47
-863,1992,Winter,M,Albertville,Ice Hockey,267
-864,1992,Winter,M,Albertville,Luge,74
-865,1992,Winter,M,Albertville,Nordic Combined,78
-866,1992,Winter,M,Albertville,Short Track Speed Skating,65
-867,1992,Winter,M,Albertville,Ski Jumping,171
-868,1992,Winter,M,Albertville,Speed Skating,201
-869,1994,Winter,F,Lillehammer,Alpine Skiing,246
-870,1994,Winter,F,Lillehammer,Biathlon,206
-871,1994,Winter,F,Lillehammer,Cross Country Skiing,280
-872,1994,Winter,F,Lillehammer,Figure Skating,66
-873,1994,Winter,F,Lillehammer,Freestyle Skiing,46
-874,1994,Winter,F,Lillehammer,Luge,25
-875,1994,Winter,F,Lillehammer,Short Track Speed Skating,93
-876,1994,Winter,F,Lillehammer,Speed Skating,143
-877,1994,Winter,M,Lillehammer,Alpine Skiing,298
-878,1994,Winter,M,Lillehammer,Biathlon,210
-879,1994,Winter,M,Lillehammer,Bobsleigh,207
-880,1994,Winter,M,Lillehammer,Cross Country Skiing,359
-881,1994,Winter,M,Lillehammer,Figure Skating,64
-882,1994,Winter,M,Lillehammer,Freestyle Skiing,53
-883,1994,Winter,M,Lillehammer,Ice Hockey,268
-884,1994,Winter,M,Lillehammer,Luge,73
-885,1994,Winter,M,Lillehammer,Nordic Combined,89
-886,1994,Winter,M,Lillehammer,Short Track Speed Skating,95
-887,1994,Winter,M,Lillehammer,Ski Jumping,164
-888,1994,Winter,M,Lillehammer,Speed Skating,175
-942,1998,Winter,F,Nagano,Alpine Skiing,224
-943,1998,Winter,F,Nagano,Biathlon,196
-944,1998,Winter,F,Nagano,Cross Country Skiing,340
-945,1998,Winter,F,Nagano,Curling,40
-946,1998,Winter,F,Nagano,Figure Skating,72
-947,1998,Winter,F,Nagano,Freestyle Skiing,52
-948,1998,Winter,F,Nagano,Ice Hockey,120
-949,1998,Winter,F,Nagano,Luge,29
-950,1998,Winter,F,Nagano,Short Track Speed Skating,96
-951,1998,Winter,F,Nagano,Snowboarding,57
-952,1998,Winter,F,Nagano,Speed Skating,158
-953,1998,Winter,M,Nagano,Alpine Skiing,253
-954,1998,Winter,M,Nagano,Biathlon,217
-955,1998,Winter,M,Nagano,Bobsleigh,204
-956,1998,Winter,M,Nagano,Cross Country Skiing,393
-957,1998,Winter,M,Nagano,Curling,40
-958,1998,Winter,M,Nagano,Figure Skating,73
-959,1998,Winter,M,Nagano,Freestyle Skiing,58
-960,1998,Winter,M,Nagano,Ice Hockey,306
-961,1998,Winter,M,Nagano,Luge,68
-962,1998,Winter,M,Nagano,Nordic Combined,92
-963,1998,Winter,M,Nagano,Short Track Speed Skating,94
-964,1998,Winter,M,Nagano,Ski Jumping,176
-965,1998,Winter,M,Nagano,Snowboarding,70
-966,1998,Winter,M,Nagano,Speed Skating,177
-1029,2002,Winter,F,Salt Lake City,Alpine Skiing,248
-1030,2002,Winter,F,Salt Lake City,Biathlon,257
-1031,2002,Winter,F,Salt Lake City,Bobsleigh,30
-1032,2002,Winter,F,Salt Lake City,Cross Country Skiing,354
-1033,2002,Winter,F,Salt Lake City,Curling,47
-1034,2002,Winter,F,Salt Lake City,Figure Skating,71
-1035,2002,Winter,F,Salt Lake City,Freestyle Skiing,50
-1036,2002,Winter,F,Salt Lake City,Ice Hockey,156
-1037,2002,Winter,F,Salt Lake City,Luge,29
-1038,2002,Winter,F,Salt Lake City,Short Track Speed Skating,120
-1039,2002,Winter,F,Salt Lake City,Skeleton,13
-1040,2002,Winter,F,Salt Lake City,Snowboarding,53
-1041,2002,Winter,F,Salt Lake City,Speed Skating,154
-1042,2002,Winter,M,Salt Lake City,Alpine Skiing,311
-1043,2002,Winter,M,Salt Lake City,Biathlon,307
-1044,2002,Winter,M,Salt Lake City,Bobsleigh,210
-1045,2002,Winter,M,Salt Lake City,Cross Country Skiing,420
-1046,2002,Winter,M,Salt Lake City,Curling,49
-1047,2002,Winter,M,Salt Lake City,Figure Skating,72
-1048,2002,Winter,M,Salt Lake City,Freestyle Skiing,55
-1049,2002,Winter,M,Salt Lake City,Ice Hockey,312
-1050,2002,Winter,M,Salt Lake City,Luge,88
-1051,2002,Winter,M,Salt Lake City,Nordic Combined,125
-1052,2002,Winter,M,Salt Lake City,Short Track Speed Skating,131
-1053,2002,Winter,M,Salt Lake City,Skeleton,26
-1054,2002,Winter,M,Salt Lake City,Ski Jumping,178
-1055,2002,Winter,M,Salt Lake City,Snowboarding,65
-1056,2002,Winter,M,Salt Lake City,Speed Skating,178
-1120,2006,Winter,F,Torino,Alpine Skiing,267
-1121,2006,Winter,F,Torino,Biathlon,325
-1122,2006,Winter,F,Torino,Bobsleigh,32
-1123,2006,Winter,F,Torino,Cross Country Skiing,366
-1124,2006,Winter,F,Torino,Curling,46
-1125,2006,Winter,F,Torino,Figure Skating,73
-1126,2006,Winter,F,Torino,Freestyle Skiing,53
-1127,2006,Winter,F,Torino,Ice Hockey,160
-1128,2006,Winter,F,Torino,Luge,30
-1129,2006,Winter,F,Torino,Short Track Speed Skating,123
-1130,2006,Winter,F,Torino,Skeleton,15
-1131,2006,Winter,F,Torino,Snowboarding,87
-1132,2006,Winter,F,Torino,Speed Skating,180
-1133,2006,Winter,M,Torino,Alpine Skiing,352
-1134,2006,Winter,M,Torino,Biathlon,333
-1135,2006,Winter,M,Torino,Bobsleigh,159
-1136,2006,Winter,M,Torino,Cross Country Skiing,446
-1137,2006,Winter,M,Torino,Curling,45
-1138,2006,Winter,M,Torino,Figure Skating,74
-1139,2006,Winter,M,Torino,Freestyle Skiing,63
-1140,2006,Winter,M,Torino,Ice Hockey,282
-1141,2006,Winter,M,Torino,Luge,78
-1142,2006,Winter,M,Torino,Nordic Combined,138
-1143,2006,Winter,M,Torino,Short Track Speed Skating,116
-1144,2006,Winter,M,Torino,Skeleton,27
-1145,2006,Winter,M,Torino,Ski Jumping,202
-1146,2006,Winter,M,Torino,Snowboarding,111
-1147,2006,Winter,M,Torino,Speed Skating,199
-1211,2010,Winter,F,Vancouver,Alpine Skiing,304
-1212,2010,Winter,F,Vancouver,Biathlon,341
-1213,2010,Winter,F,Vancouver,Bobsleigh,42
-1214,2010,Winter,F,Vancouver,Cross Country Skiing,351
-1215,2010,Winter,F,Vancouver,Curling,46
-1216,2010,Winter,F,Vancouver,Figure Skating,73
-1217,2010,Winter,F,Vancouver,Freestyle Skiing,85
-1218,2010,Winter,F,Vancouver,Ice Hockey,160
-1219,2010,Winter,F,Vancouver,Luge,29
-1220,2010,Winter,F,Vancouver,Short Track Speed Skating,136
-1221,2010,Winter,F,Vancouver,Skeleton,19
-1222,2010,Winter,F,Vancouver,Snowboarding,81
-1223,2010,Winter,F,Vancouver,Speed Skating,180
-1224,2010,Winter,M,Vancouver,Alpine Skiing,381
-1225,2010,Winter,M,Vancouver,Biathlon,342
-1226,2010,Winter,M,Vancouver,Bobsleigh,157
-1227,2010,Winter,M,Vancouver,Cross Country Skiing,374
-1228,2010,Winter,M,Vancouver,Curling,47
-1229,2010,Winter,M,Vancouver,Figure Skating,73
-1230,2010,Winter,M,Vancouver,Freestyle Skiing,87
-1231,2010,Winter,M,Vancouver,Ice Hockey,260
-1232,2010,Winter,M,Vancouver,Luge,78
-1233,2010,Winter,M,Vancouver,Nordic Combined,131
-1234,2010,Winter,M,Vancouver,Short Track Speed Skating,137
-1235,2010,Winter,M,Vancouver,Skeleton,28
-1236,2010,Winter,M,Vancouver,Ski Jumping,170
-1237,2010,Winter,M,Vancouver,Snowboarding,104
-1238,2010,Winter,M,Vancouver,Speed Skating,186
-1301,2014,Winter,F,Sochi,Alpine Skiing,303
-1302,2014,Winter,F,Sochi,Biathlon,353
-1303,2014,Winter,F,Sochi,Bobsleigh,39
-1304,2014,Winter,F,Sochi,Cross Country Skiing,348
-1305,2014,Winter,F,Sochi,Curling,43
-1306,2014,Winter,F,Sochi,Figure Skating,111
-1307,2014,Winter,F,Sochi,Freestyle Skiing,123
-1308,2014,Winter,F,Sochi,Ice Hockey,158
-1309,2014,Winter,F,Sochi,Luge,43
-1310,2014,Winter,F,Sochi,Short Track Speed Skating,134
-1311,2014,Winter,F,Sochi,Skeleton,19
-1312,2014,Winter,F,Sochi,Ski Jumping,30
-1313,2014,Winter,F,Sochi,Snowboarding,138
-1314,2014,Winter,F,Sochi,Speed Skating,181
-1315,2014,Winter,M,Sochi,Alpine Skiing,384
-1316,2014,Winter,M,Sochi,Biathlon,373
-1317,2014,Winter,M,Sochi,Bobsleigh,184
-1318,2014,Winter,M,Sochi,Cross Country Skiing,417
-1319,2014,Winter,M,Sochi,Curling,44
-1320,2014,Winter,M,Sochi,Figure Skating,110
-1321,2014,Winter,M,Sochi,Freestyle Skiing,141
-1322,2014,Winter,M,Sochi,Ice Hockey,285
-1323,2014,Winter,M,Sochi,Luge,113
-1324,2014,Winter,M,Sochi,Nordic Combined,128
-1325,2014,Winter,M,Sochi,Short Track Speed Skating,135
-1326,2014,Winter,M,Sochi,Skeleton,27
-1327,2014,Winter,M,Sochi,Ski Jumping,170
-1328,2014,Winter,M,Sochi,Snowboarding,170
-1329,2014,Winter,M,Sochi,Speed Skating,187
+,Year,Season,City,Sport,Player_Count
+146,1924,Winter,Chamonix,Alpinism,21
+147,1924,Winter,Chamonix,Bobsleigh,39
+148,1924,Winter,Chamonix,Cross Country Skiing,74
+149,1924,Winter,Chamonix,Curling,16
+150,1924,Winter,Chamonix,Figure Skating,37
+151,1924,Winter,Chamonix,Ice Hockey,82
+152,1924,Winter,Chamonix,Military Ski Patrol,24
+153,1924,Winter,Chamonix,Nordic Combined,30
+154,1924,Winter,Chamonix,Ski Jumping,27
+155,1924,Winter,Chamonix,Speed Skating,110
+173,1928,Winter,Sankt Moritz,Bobsleigh,116
+174,1928,Winter,Sankt Moritz,Cross Country Skiing,90
+175,1928,Winter,Sankt Moritz,Figure Skating,63
+176,1928,Winter,Sankt Moritz,Ice Hockey,124
+177,1928,Winter,Sankt Moritz,Nordic Combined,35
+178,1928,Winter,Sankt Moritz,Skeleton,10
+179,1928,Winter,Sankt Moritz,Ski Jumping,38
+180,1928,Winter,Sankt Moritz,Speed Skating,106
+199,1932,Winter,Lake Placid,Bobsleigh,52
+200,1932,Winter,Lake Placid,Cross Country Skiing,74
+201,1932,Winter,Lake Placid,Figure Skating,41
+202,1932,Winter,Lake Placid,Ice Hockey,48
+203,1932,Winter,Lake Placid,Nordic Combined,33
+204,1932,Winter,Lake Placid,Ski Jumping,34
+205,1932,Winter,Lake Placid,Speed Skating,70
+230,1936,Winter,Garmisch-Partenkirchen,Alpine Skiing,103
+231,1936,Winter,Garmisch-Partenkirchen,Bobsleigh,118
+232,1936,Winter,Garmisch-Partenkirchen,Cross Country Skiing,175
+233,1936,Winter,Garmisch-Partenkirchen,Figure Skating,87
+234,1936,Winter,Garmisch-Partenkirchen,Ice Hockey,173
+235,1936,Winter,Garmisch-Partenkirchen,Nordic Combined,51
+236,1936,Winter,Garmisch-Partenkirchen,Ski Jumping,48
+237,1936,Winter,Garmisch-Partenkirchen,Speed Skating,140
+258,1948,Winter,Sankt Moritz,Alpine Skiing,360
+259,1948,Winter,Sankt Moritz,Bobsleigh,92
+260,1948,Winter,Sankt Moritz,Cross Country Skiing,156
+261,1948,Winter,Sankt Moritz,Figure Skating,71
+262,1948,Winter,Sankt Moritz,Ice Hockey,139
+263,1948,Winter,Sankt Moritz,Nordic Combined,39
+264,1948,Winter,Sankt Moritz,Skeleton,15
+265,1948,Winter,Sankt Moritz,Ski Jumping,49
+266,1948,Winter,Sankt Moritz,Speed Skating,154
+286,1952,Winter,Oslo,Alpine Skiing,378
+287,1952,Winter,Oslo,Bobsleigh,96
+288,1952,Winter,Oslo,Cross Country Skiing,188
+289,1952,Winter,Oslo,Figure Skating,65
+290,1952,Winter,Oslo,Ice Hockey,147
+291,1952,Winter,Oslo,Nordic Combined,25
+292,1952,Winter,Oslo,Ski Jumping,44
+293,1952,Winter,Oslo,Speed Skating,145
+313,1956,Winter,Cortina d'Ampezzo,Alpine Skiing,403
+314,1956,Winter,Cortina d'Ampezzo,Bobsleigh,135
+315,1956,Winter,Cortina d'Ampezzo,Cross Country Skiing,275
+316,1956,Winter,Cortina d'Ampezzo,Figure Skating,59
+317,1956,Winter,Cortina d'Ampezzo,Ice Hockey,169
+318,1956,Winter,Cortina d'Ampezzo,Nordic Combined,36
+319,1956,Winter,Cortina d'Ampezzo,Ski Jumping,51
+320,1956,Winter,Cortina d'Ampezzo,Speed Skating,179
+340,1960,Winter,Squaw Valley,Alpine Skiing,320
+341,1960,Winter,Squaw Valley,Biathlon,30
+342,1960,Winter,Squaw Valley,Cross Country Skiing,216
+343,1960,Winter,Squaw Valley,Figure Skating,71
+344,1960,Winter,Squaw Valley,Ice Hockey,152
+345,1960,Winter,Squaw Valley,Nordic Combined,33
+346,1960,Winter,Squaw Valley,Ski Jumping,45
+347,1960,Winter,Squaw Valley,Speed Skating,249
+369,1964,Winter,Innsbruck,Alpine Skiing,411
+370,1964,Winter,Innsbruck,Biathlon,51
+371,1964,Winter,Innsbruck,Bobsleigh,117
+372,1964,Winter,Innsbruck,Cross Country Skiing,332
+373,1964,Winter,Innsbruck,Figure Skating,88
+374,1964,Winter,Innsbruck,Ice Hockey,270
+375,1964,Winter,Innsbruck,Luge,85
+376,1964,Winter,Innsbruck,Nordic Combined,32
+377,1964,Winter,Innsbruck,Ski Jumping,105
+378,1964,Winter,Innsbruck,Speed Skating,287
+399,1968,Winter,Grenoble,Alpine Skiing,422
+400,1968,Winter,Grenoble,Biathlon,116
+401,1968,Winter,Grenoble,Bobsleigh,120
+402,1968,Winter,Grenoble,Cross Country Skiing,344
+403,1968,Winter,Grenoble,Figure Skating,96
+404,1968,Winter,Grenoble,Ice Hockey,250
+405,1968,Winter,Grenoble,Luge,106
+406,1968,Winter,Grenoble,Nordic Combined,41
+407,1968,Winter,Grenoble,Ski Jumping,116
+408,1968,Winter,Grenoble,Speed Skating,280
+432,1972,Winter,Sapporo,Alpine Skiing,325
+433,1972,Winter,Sapporo,Biathlon,106
+434,1972,Winter,Sapporo,Bobsleigh,114
+435,1972,Winter,Sapporo,Cross Country Skiing,335
+436,1972,Winter,Sapporo,Figure Skating,68
+437,1972,Winter,Sapporo,Ice Hockey,208
+438,1972,Winter,Sapporo,Luge,107
+439,1972,Winter,Sapporo,Nordic Combined,40
+440,1972,Winter,Sapporo,Ski Jumping,108
+441,1972,Winter,Sapporo,Speed Skating,244
+465,1976,Winter,Innsbruck,Alpine Skiing,390
+466,1976,Winter,Innsbruck,Biathlon,112
+467,1976,Winter,Innsbruck,Bobsleigh,133
+468,1976,Winter,Innsbruck,Cross Country Skiing,395
+469,1976,Winter,Innsbruck,Figure Skating,105
+470,1976,Winter,Innsbruck,Ice Hockey,217
+471,1976,Winter,Innsbruck,Luge,119
+472,1976,Winter,Innsbruck,Nordic Combined,34
+473,1976,Winter,Innsbruck,Ski Jumping,109
+474,1976,Winter,Innsbruck,Speed Skating,247
+498,1980,Winter,Lake Placid,Alpine Skiing,327
+499,1980,Winter,Lake Placid,Biathlon,159
+500,1980,Winter,Lake Placid,Bobsleigh,108
+501,1980,Winter,Lake Placid,Cross Country Skiing,309
+502,1980,Winter,Lake Placid,Figure Skating,85
+503,1980,Winter,Lake Placid,Ice Hockey,239
+504,1980,Winter,Lake Placid,Luge,94
+505,1980,Winter,Lake Placid,Nordic Combined,31
+506,1980,Winter,Lake Placid,Ski Jumping,98
+507,1980,Winter,Lake Placid,Speed Skating,296
+533,1984,Winter,Sarajevo,Alpine Skiing,401
+534,1984,Winter,Sarajevo,Biathlon,195
+535,1984,Winter,Sarajevo,Bobsleigh,152
+536,1984,Winter,Sarajevo,Cross Country Skiing,477
+537,1984,Winter,Sarajevo,Figure Skating,114
+538,1984,Winter,Sarajevo,Ice Hockey,239
+539,1984,Winter,Sarajevo,Luge,89
+540,1984,Winter,Sarajevo,Nordic Combined,28
+541,1984,Winter,Sarajevo,Ski Jumping,111
+542,1984,Winter,Sarajevo,Speed Skating,328
+570,1988,Winter,Calgary,Alpine Skiing,668
+571,1988,Winter,Calgary,Biathlon,207
+572,1988,Winter,Calgary,Bobsleigh,186
+573,1988,Winter,Calgary,Cross Country Skiing,528
+574,1988,Winter,Calgary,Figure Skating,129
+575,1988,Winter,Calgary,Ice Hockey,265
+576,1988,Winter,Calgary,Luge,98
+577,1988,Winter,Calgary,Nordic Combined,75
+578,1988,Winter,Calgary,Ski Jumping,157
+579,1988,Winter,Calgary,Speed Skating,326
+609,1992,Winter,Albertville,Alpine Skiing,750
+610,1992,Winter,Albertville,Biathlon,457
+611,1992,Winter,Albertville,Bobsleigh,216
+612,1992,Winter,Albertville,Cross Country Skiing,717
+613,1992,Winter,Albertville,Figure Skating,133
+614,1992,Winter,Albertville,Freestyle Skiing,71
+615,1992,Winter,Albertville,Ice Hockey,267
+616,1992,Winter,Albertville,Luge,98
+617,1992,Winter,Albertville,Nordic Combined,78
+618,1992,Winter,Albertville,Short Track Speed Skating,124
+619,1992,Winter,Albertville,Ski Jumping,171
+620,1992,Winter,Albertville,Speed Skating,354
+621,1994,Winter,Lillehammer,Alpine Skiing,544
+622,1994,Winter,Lillehammer,Biathlon,416
+623,1994,Winter,Lillehammer,Bobsleigh,207
+624,1994,Winter,Lillehammer,Cross Country Skiing,639
+625,1994,Winter,Lillehammer,Figure Skating,130
+626,1994,Winter,Lillehammer,Freestyle Skiing,99
+627,1994,Winter,Lillehammer,Ice Hockey,268
+628,1994,Winter,Lillehammer,Luge,98
+629,1994,Winter,Lillehammer,Nordic Combined,89
+630,1994,Winter,Lillehammer,Short Track Speed Skating,188
+631,1994,Winter,Lillehammer,Ski Jumping,164
+632,1994,Winter,Lillehammer,Speed Skating,318
+664,1998,Winter,Nagano,Alpine Skiing,477
+665,1998,Winter,Nagano,Biathlon,413
+666,1998,Winter,Nagano,Bobsleigh,204
+667,1998,Winter,Nagano,Cross Country Skiing,733
+668,1998,Winter,Nagano,Curling,80
+669,1998,Winter,Nagano,Figure Skating,145
+670,1998,Winter,Nagano,Freestyle Skiing,110
+671,1998,Winter,Nagano,Ice Hockey,426
+672,1998,Winter,Nagano,Luge,97
+673,1998,Winter,Nagano,Nordic Combined,92
+674,1998,Winter,Nagano,Short Track Speed Skating,190
+675,1998,Winter,Nagano,Ski Jumping,176
+676,1998,Winter,Nagano,Snowboarding,127
+677,1998,Winter,Nagano,Speed Skating,335
+712,2002,Winter,Salt Lake City,Alpine Skiing,559
+713,2002,Winter,Salt Lake City,Biathlon,564
+714,2002,Winter,Salt Lake City,Bobsleigh,240
+715,2002,Winter,Salt Lake City,Cross Country Skiing,774
+716,2002,Winter,Salt Lake City,Curling,96
+717,2002,Winter,Salt Lake City,Figure Skating,143
+718,2002,Winter,Salt Lake City,Freestyle Skiing,105
+719,2002,Winter,Salt Lake City,Ice Hockey,468
+720,2002,Winter,Salt Lake City,Luge,117
+721,2002,Winter,Salt Lake City,Nordic Combined,125
+722,2002,Winter,Salt Lake City,Short Track Speed Skating,251
+723,2002,Winter,Salt Lake City,Skeleton,39
+724,2002,Winter,Salt Lake City,Ski Jumping,178
+725,2002,Winter,Salt Lake City,Snowboarding,118
+726,2002,Winter,Salt Lake City,Speed Skating,332
+761,2006,Winter,Torino,Alpine Skiing,619
+762,2006,Winter,Torino,Biathlon,658
+763,2006,Winter,Torino,Bobsleigh,191
+764,2006,Winter,Torino,Cross Country Skiing,812
+765,2006,Winter,Torino,Curling,91
+766,2006,Winter,Torino,Figure Skating,147
+767,2006,Winter,Torino,Freestyle Skiing,116
+768,2006,Winter,Torino,Ice Hockey,442
+769,2006,Winter,Torino,Luge,108
+770,2006,Winter,Torino,Nordic Combined,138
+771,2006,Winter,Torino,Short Track Speed Skating,239
+772,2006,Winter,Torino,Skeleton,42
+773,2006,Winter,Torino,Ski Jumping,202
+774,2006,Winter,Torino,Snowboarding,198
+775,2006,Winter,Torino,Speed Skating,379
+810,2010,Winter,Vancouver,Alpine Skiing,685
+811,2010,Winter,Vancouver,Biathlon,683
+812,2010,Winter,Vancouver,Bobsleigh,199
+813,2010,Winter,Vancouver,Cross Country Skiing,725
+814,2010,Winter,Vancouver,Curling,93
+815,2010,Winter,Vancouver,Figure Skating,146
+816,2010,Winter,Vancouver,Freestyle Skiing,172
+817,2010,Winter,Vancouver,Ice Hockey,420
+818,2010,Winter,Vancouver,Luge,107
+819,2010,Winter,Vancouver,Nordic Combined,131
+820,2010,Winter,Vancouver,Short Track Speed Skating,273
+821,2010,Winter,Vancouver,Skeleton,47
+822,2010,Winter,Vancouver,Ski Jumping,170
+823,2010,Winter,Vancouver,Snowboarding,185
+824,2010,Winter,Vancouver,Speed Skating,366
+857,2014,Winter,Sochi,Alpine Skiing,687
+858,2014,Winter,Sochi,Biathlon,726
+859,2014,Winter,Sochi,Bobsleigh,223
+860,2014,Winter,Sochi,Cross Country Skiing,765
+861,2014,Winter,Sochi,Curling,87
+862,2014,Winter,Sochi,Figure Skating,221
+863,2014,Winter,Sochi,Freestyle Skiing,264
+864,2014,Winter,Sochi,Ice Hockey,443
+865,2014,Winter,Sochi,Luge,156
+866,2014,Winter,Sochi,Nordic Combined,128
+867,2014,Winter,Sochi,Short Track Speed Skating,269
+868,2014,Winter,Sochi,Skeleton,46
+869,2014,Winter,Sochi,Ski Jumping,200
+870,2014,Winter,Sochi,Snowboarding,308
+871,2014,Winter,Sochi,Speed Skating,368

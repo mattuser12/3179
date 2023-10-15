@@ -1,1031 +1,673 @@
-,Year,Season,Sex,City,Sport,Player_Count
-0,1896,Summer,M,Athina,Athletics,106
-1,1896,Summer,M,Athina,Cycling,41
-2,1896,Summer,M,Athina,Fencing,15
-3,1896,Summer,M,Athina,Gymnastics,97
-4,1896,Summer,M,Athina,Shooting,65
-5,1896,Summer,M,Athina,Swimming,18
-6,1896,Summer,M,Athina,Tennis,23
-7,1896,Summer,M,Athina,Weightlifting,10
-8,1896,Summer,M,Athina,Wrestling,5
-9,1900,Summer,F,Paris,Croquet,6
-10,1900,Summer,F,Paris,Equestrianism,2
-11,1900,Summer,F,Paris,Golf,10
-12,1900,Summer,F,Paris,Sailing,3
-13,1900,Summer,F,Paris,Tennis,12
-14,1900,Summer,M,Paris,Archery,32
-15,1900,Summer,M,Paris,Athletics,234
-16,1900,Summer,M,Paris,Basque Pelota,2
-17,1900,Summer,M,Paris,Cricket,24
-18,1900,Summer,M,Paris,Croquet,13
-19,1900,Summer,M,Paris,Cycling,92
-20,1900,Summer,M,Paris,Equestrianism,77
-21,1900,Summer,M,Paris,Fencing,317
-22,1900,Summer,M,Paris,Football,35
-23,1900,Summer,M,Paris,Golf,12
-24,1900,Summer,M,Paris,Gymnastics,135
-25,1900,Summer,M,Paris,Polo,21
-26,1900,Summer,M,Paris,Rowing,133
-27,1900,Summer,M,Paris,Rugby,47
-28,1900,Summer,M,Paris,Sailing,277
-29,1900,Summer,M,Paris,Shooting,221
-30,1900,Summer,M,Paris,Swimming,131
-31,1900,Summer,M,Paris,Tennis,35
-32,1900,Summer,M,Paris,Tug-Of-War,12
-33,1900,Summer,M,Paris,Water Polo,53
-34,1904,Summer,F,St. Louis,Archery,16
-35,1904,Summer,M,St. Louis,Archery,54
-36,1904,Summer,M,St. Louis,Athletics,201
-37,1904,Summer,M,St. Louis,Boxing,24
-38,1904,Summer,M,St. Louis,Cycling,61
-39,1904,Summer,M,St. Louis,Diving,5
-40,1904,Summer,M,St. Louis,Fencing,28
-41,1904,Summer,M,St. Louis,Football,36
-42,1904,Summer,M,St. Louis,Golf,105
-43,1904,Summer,M,St. Louis,Gymnastics,458
-44,1904,Summer,M,St. Louis,Lacrosse,36
-45,1904,Summer,M,St. Louis,Roque,4
-46,1904,Summer,M,St. Louis,Rowing,46
-47,1904,Summer,M,St. Louis,Swimming,64
-48,1904,Summer,M,St. Louis,Tennis,57
-49,1904,Summer,M,St. Louis,Tug-Of-War,30
-50,1904,Summer,M,St. Louis,Water Polo,21
-51,1904,Summer,M,St. Louis,Weightlifting,7
-52,1904,Summer,M,St. Louis,Wrestling,48
-53,1906,Summer,F,Athina,Tennis,11
-54,1906,Summer,M,Athina,Athletics,470
-55,1906,Summer,M,Athina,Cycling,138
-56,1906,Summer,M,Athina,Diving,24
-57,1906,Summer,M,Athina,Fencing,161
-58,1906,Summer,M,Athina,Football,45
-59,1906,Summer,M,Athina,Gymnastics,156
-60,1906,Summer,M,Athina,Rowing,200
-61,1906,Summer,M,Athina,Shooting,320
-62,1906,Summer,M,Athina,Swimming,78
-63,1906,Summer,M,Athina,Tennis,37
-64,1906,Summer,M,Athina,Tug-Of-War,32
-65,1906,Summer,M,Athina,Weightlifting,22
-66,1906,Summer,M,Athina,Wrestling,39
-67,1908,Summer,F,London,Archery,25
-68,1908,Summer,F,London,Figure Skating,8
-69,1908,Summer,F,London,Motorboating,1
-70,1908,Summer,F,London,Sailing,1
-71,1908,Summer,F,London,Tennis,12
-72,1908,Summer,M,London,Archery,52
-73,1908,Summer,M,London,Athletics,778
-74,1908,Summer,M,London,Boxing,42
-75,1908,Summer,M,London,Cycling,269
-76,1908,Summer,M,London,Diving,47
-77,1908,Summer,M,London,Fencing,240
-78,1908,Summer,M,London,Figure Skating,15
-79,1908,Summer,M,London,Football,72
-80,1908,Summer,M,London,Gymnastics,349
-81,1908,Summer,M,London,Hockey,68
-82,1908,Summer,M,London,Jeu De Paume,11
-83,1908,Summer,M,London,Lacrosse,24
-84,1908,Summer,M,London,Motorboating,16
-85,1908,Summer,M,London,Polo,12
-86,1908,Summer,M,London,Racquets,12
-87,1908,Summer,M,London,Rowing,87
-88,1908,Summer,M,London,Rugby,30
-89,1908,Summer,M,London,Sailing,63
-90,1908,Summer,M,London,Shooting,444
-91,1908,Summer,M,London,Swimming,150
-92,1908,Summer,M,London,Tennis,72
-93,1908,Summer,M,London,Tug-Of-War,40
-94,1908,Summer,M,London,Water Polo,28
-95,1908,Summer,M,London,Wrestling,133
-96,1912,Summer,F,Stockholm,Diving,14
-97,1912,Summer,F,Stockholm,Swimming,43
-98,1912,Summer,F,Stockholm,Tennis,30
-99,1912,Summer,M,Stockholm,Art Competitions,33
-100,1912,Summer,M,Stockholm,Athletics,962
-101,1912,Summer,M,Stockholm,Cycling,242
-102,1912,Summer,M,Stockholm,Diving,72
-103,1912,Summer,M,Stockholm,Equestrianism,128
-104,1912,Summer,M,Stockholm,Fencing,379
-105,1912,Summer,M,Stockholm,Football,163
-106,1912,Summer,M,Stockholm,Gymnastics,310
-107,1912,Summer,M,Stockholm,Modern Pentathlon,32
-108,1912,Summer,M,Stockholm,Rowing,197
-109,1912,Summer,M,Stockholm,Sailing,109
-110,1912,Summer,M,Stockholm,Shooting,794
-111,1912,Summer,M,Stockholm,Swimming,158
-112,1912,Summer,M,Stockholm,Tennis,143
-113,1912,Summer,M,Stockholm,Tug-Of-War,16
-114,1912,Summer,M,Stockholm,Water Polo,45
-115,1912,Summer,M,Stockholm,Wrestling,170
-116,1920,Summer,F,Antwerpen,Art Competitions,1
-117,1920,Summer,F,Antwerpen,Diving,19
-118,1920,Summer,F,Antwerpen,Figure Skating,14
-119,1920,Summer,F,Antwerpen,Sailing,1
-120,1920,Summer,F,Antwerpen,Swimming,47
-121,1920,Summer,F,Antwerpen,Tennis,52
-122,1920,Summer,M,Antwerpen,Archery,86
-123,1920,Summer,M,Antwerpen,Art Competitions,10
-124,1920,Summer,M,Antwerpen,Athletics,849
-125,1920,Summer,M,Antwerpen,Boxing,116
-126,1920,Summer,M,Antwerpen,Cycling,212
-127,1920,Summer,M,Antwerpen,Diving,51
-128,1920,Summer,M,Antwerpen,Equestrianism,132
-129,1920,Summer,M,Antwerpen,Fencing,350
-130,1920,Summer,M,Antwerpen,Figure Skating,17
-131,1920,Summer,M,Antwerpen,Football,190
-132,1920,Summer,M,Antwerpen,Gymnastics,263
-133,1920,Summer,M,Antwerpen,Hockey,51
-134,1920,Summer,M,Antwerpen,Ice Hockey,60
-135,1920,Summer,M,Antwerpen,Modern Pentathlon,23
-136,1920,Summer,M,Antwerpen,Polo,17
-137,1920,Summer,M,Antwerpen,Rowing,144
-138,1920,Summer,M,Antwerpen,Rugby,31
-139,1920,Summer,M,Antwerpen,Sailing,100
-140,1920,Summer,M,Antwerpen,Shooting,838
-141,1920,Summer,M,Antwerpen,Swimming,162
-142,1920,Summer,M,Antwerpen,Tennis,101
-143,1920,Summer,M,Antwerpen,Tug-Of-War,40
-144,1920,Summer,M,Antwerpen,Water Polo,101
-145,1920,Summer,M,Antwerpen,Weightlifting,53
-146,1920,Summer,M,Antwerpen,Wrestling,161
-147,1924,Summer,F,Paris,Art Competitions,33
-148,1924,Summer,F,Paris,Diving,28
-149,1924,Summer,F,Paris,Fencing,25
-150,1924,Summer,F,Paris,Sailing,1
-151,1924,Summer,F,Paris,Swimming,83
-152,1924,Summer,F,Paris,Tennis,74
-153,1924,Summer,M,Paris,Art Competitions,285
-154,1924,Summer,M,Paris,Athletics,1003
-155,1924,Summer,M,Paris,Boxing,181
-156,1924,Summer,M,Paris,Cycling,249
-157,1924,Summer,M,Paris,Diving,62
-158,1924,Summer,M,Paris,Equestrianism,194
-159,1924,Summer,M,Paris,Fencing,399
-160,1924,Summer,M,Paris,Football,279
-161,1924,Summer,M,Paris,Gymnastics,638
-162,1924,Summer,M,Paris,Modern Pentathlon,38
-163,1924,Summer,M,Paris,Polo,24
-164,1924,Summer,M,Paris,Rowing,196
-165,1924,Summer,M,Paris,Rugby,54
-166,1924,Summer,M,Paris,Sailing,68
-167,1924,Summer,M,Paris,Shooting,508
-168,1924,Summer,M,Paris,Swimming,180
-169,1924,Summer,M,Paris,Tennis,179
-170,1924,Summer,M,Paris,Water Polo,101
-171,1924,Summer,M,Paris,Weightlifting,107
-172,1924,Summer,M,Paris,Wrestling,244
-184,1928,Summer,F,Amsterdam,Art Competitions,55
-185,1928,Summer,F,Amsterdam,Athletics,129
-186,1928,Summer,F,Amsterdam,Diving,27
-187,1928,Summer,F,Amsterdam,Fencing,27
-188,1928,Summer,F,Amsterdam,Gymnastics,56
-189,1928,Summer,F,Amsterdam,Sailing,2
-190,1928,Summer,F,Amsterdam,Swimming,108
-191,1928,Summer,M,Amsterdam,Art Competitions,753
-192,1928,Summer,M,Amsterdam,Athletics,863
-193,1928,Summer,M,Amsterdam,Boxing,144
-194,1928,Summer,M,Amsterdam,Cycling,227
-195,1928,Summer,M,Amsterdam,Diving,47
-196,1928,Summer,M,Amsterdam,Equestrianism,232
-197,1928,Summer,M,Amsterdam,Fencing,403
-198,1928,Summer,M,Amsterdam,Football,219
-199,1928,Summer,M,Amsterdam,Gymnastics,608
-200,1928,Summer,M,Amsterdam,Hockey,137
-201,1928,Summer,M,Amsterdam,Modern Pentathlon,37
-202,1928,Summer,M,Amsterdam,Rowing,247
-203,1928,Summer,M,Amsterdam,Sailing,126
-204,1928,Summer,M,Amsterdam,Swimming,170
-205,1928,Summer,M,Amsterdam,Water Polo,112
-206,1928,Summer,M,Amsterdam,Weightlifting,94
-207,1928,Summer,M,Amsterdam,Wrestling,169
-217,1932,Summer,F,Los Angeles,Art Competitions,158
-218,1932,Summer,F,Los Angeles,Athletics,80
-219,1932,Summer,F,Los Angeles,Diving,15
-220,1932,Summer,F,Los Angeles,Fencing,17
-221,1932,Summer,F,Los Angeles,Swimming,77
-222,1932,Summer,M,Los Angeles,Alpinism,2
-223,1932,Summer,M,Los Angeles,Art Competitions,966
-224,1932,Summer,M,Los Angeles,Athletics,442
-225,1932,Summer,M,Los Angeles,Boxing,85
-226,1932,Summer,M,Los Angeles,Cycling,109
-227,1932,Summer,M,Los Angeles,Diving,21
-228,1932,Summer,M,Los Angeles,Equestrianism,65
-229,1932,Summer,M,Los Angeles,Fencing,175
-230,1932,Summer,M,Los Angeles,Gymnastics,147
-231,1932,Summer,M,Los Angeles,Hockey,40
-232,1932,Summer,M,Los Angeles,Modern Pentathlon,25
-233,1932,Summer,M,Los Angeles,Rowing,166
-234,1932,Summer,M,Los Angeles,Sailing,57
-235,1932,Summer,M,Los Angeles,Shooting,44
-236,1932,Summer,M,Los Angeles,Swimming,118
-237,1932,Summer,M,Los Angeles,Water Polo,41
-238,1932,Summer,M,Los Angeles,Weightlifting,29
-239,1932,Summer,M,Los Angeles,Wrestling,90
-248,1936,Summer,F,Berlin,Alpinism,1
-249,1936,Summer,F,Berlin,Art Competitions,52
-250,1936,Summer,F,Berlin,Athletics,134
-251,1936,Summer,F,Berlin,Diving,38
-252,1936,Summer,F,Berlin,Fencing,41
-253,1936,Summer,F,Berlin,Gymnastics,64
-254,1936,Summer,F,Berlin,Sailing,3
-255,1936,Summer,F,Berlin,Swimming,135
-256,1936,Summer,M,Berlin,Aeronautics,1
-257,1936,Summer,M,Berlin,Alpinism,1
-258,1936,Summer,M,Berlin,Art Competitions,761
-259,1936,Summer,M,Berlin,Athletics,873
-260,1936,Summer,M,Berlin,Basketball,199
-261,1936,Summer,M,Berlin,Boxing,179
-262,1936,Summer,M,Berlin,Canoeing,143
-263,1936,Summer,M,Berlin,Cycling,301
-264,1936,Summer,M,Berlin,Diving,50
-265,1936,Summer,M,Berlin,Equestrianism,256
-266,1936,Summer,M,Berlin,Fencing,515
-267,1936,Summer,M,Berlin,Football,201
-268,1936,Summer,M,Berlin,Gymnastics,883
-269,1936,Summer,M,Berlin,Handball,105
-270,1936,Summer,M,Berlin,Hockey,167
-271,1936,Summer,M,Berlin,Modern Pentathlon,42
-272,1936,Summer,M,Berlin,Polo,21
-273,1936,Summer,M,Berlin,Rowing,348
-274,1936,Summer,M,Berlin,Sailing,169
-275,1936,Summer,M,Berlin,Shooting,162
-276,1936,Summer,M,Berlin,Swimming,229
-277,1936,Summer,M,Berlin,Water Polo,142
-278,1936,Summer,M,Berlin,Weightlifting,80
-279,1936,Summer,M,Berlin,Wrestling,210
-290,1948,Summer,F,London,Art Competitions,78
-291,1948,Summer,F,London,Athletics,236
-292,1948,Summer,F,London,Canoeing,10
-293,1948,Summer,F,London,Diving,32
-294,1948,Summer,F,London,Fencing,39
-295,1948,Summer,F,London,Gymnastics,88
-296,1948,Summer,F,London,Swimming,145
-297,1948,Summer,M,London,Art Competitions,393
-298,1948,Summer,M,London,Athletics,815
-299,1948,Summer,M,London,Basketball,287
-300,1948,Summer,M,London,Boxing,205
-301,1948,Summer,M,London,Canoeing,129
-302,1948,Summer,M,London,Cycling,320
-303,1948,Summer,M,London,Diving,52
-304,1948,Summer,M,London,Equestrianism,207
-305,1948,Summer,M,London,Fencing,469
-306,1948,Summer,M,London,Football,218
-307,1948,Summer,M,London,Gymnastics,972
-308,1948,Summer,M,London,Hockey,187
-309,1948,Summer,M,London,Modern Pentathlon,45
-310,1948,Summer,M,London,Rowing,318
-311,1948,Summer,M,London,Sailing,186
-312,1948,Summer,M,London,Shooting,216
-313,1948,Summer,M,London,Swimming,253
-314,1948,Summer,M,London,Water Polo,156
-315,1948,Summer,M,London,Weightlifting,120
-316,1948,Summer,M,London,Wrestling,229
-328,1952,Summer,F,Helsinki,Athletics,300
-329,1952,Summer,F,Helsinki,Canoeing,13
-330,1952,Summer,F,Helsinki,Diving,30
-331,1952,Summer,F,Helsinki,Equestrianism,6
-332,1952,Summer,F,Helsinki,Fencing,37
-333,1952,Summer,F,Helsinki,Gymnastics,926
-334,1952,Summer,F,Helsinki,Sailing,3
-335,1952,Summer,F,Helsinki,Swimming,182
-336,1952,Summer,M,Helsinki,Athletics,1044
-337,1952,Summer,M,Helsinki,Basketball,294
-338,1952,Summer,M,Helsinki,Boxing,249
-339,1952,Summer,M,Helsinki,Canoeing,171
-340,1952,Summer,M,Helsinki,Cycling,389
-341,1952,Summer,M,Helsinki,Diving,67
-342,1952,Summer,M,Helsinki,Equestrianism,257
-343,1952,Summer,M,Helsinki,Fencing,472
-344,1952,Summer,M,Helsinki,Football,294
-345,1952,Summer,M,Helsinki,Gymnastics,1465
-346,1952,Summer,M,Helsinki,Hockey,157
-347,1952,Summer,M,Helsinki,Modern Pentathlon,99
-348,1952,Summer,M,Helsinki,Rowing,406
-349,1952,Summer,M,Helsinki,Sailing,224
-350,1952,Summer,M,Helsinki,Shooting,289
-351,1952,Summer,M,Helsinki,Swimming,301
-352,1952,Summer,M,Helsinki,Water Polo,191
-353,1952,Summer,M,Helsinki,Weightlifting,142
-354,1952,Summer,M,Helsinki,Wrestling,262
-366,1956,Summer,F,Melbourne,Athletics,216
-367,1956,Summer,F,Melbourne,Canoeing,10
-368,1956,Summer,F,Melbourne,Diving,36
-369,1956,Summer,F,Melbourne,Fencing,23
-370,1956,Summer,F,Melbourne,Gymnastics,430
-371,1956,Summer,F,Melbourne,Swimming,155
-372,1956,Summer,F,Stockholm,Equestrianism,23
-373,1956,Summer,M,Melbourne,Athletics,797
-374,1956,Summer,M,Melbourne,Basketball,169
-375,1956,Summer,M,Melbourne,Boxing,161
-376,1956,Summer,M,Melbourne,Canoeing,136
-377,1956,Summer,M,Melbourne,Cycling,292
-378,1956,Summer,M,Melbourne,Diving,46
-379,1956,Summer,M,Melbourne,Fencing,255
-380,1956,Summer,M,Melbourne,Football,143
-381,1956,Summer,M,Melbourne,Gymnastics,483
-382,1956,Summer,M,Melbourne,Hockey,173
-383,1956,Summer,M,Melbourne,Modern Pentathlon,76
-384,1956,Summer,M,Melbourne,Rowing,258
-385,1956,Summer,M,Melbourne,Sailing,154
-386,1956,Summer,M,Melbourne,Shooting,219
-387,1956,Summer,M,Melbourne,Swimming,201
-388,1956,Summer,M,Melbourne,Water Polo,96
-389,1956,Summer,M,Melbourne,Weightlifting,105
-390,1956,Summer,M,Melbourne,Wrestling,195
-391,1956,Summer,M,Stockholm,Equestrianism,275
-403,1960,Summer,F,Roma,Athletics,270
-404,1960,Summer,F,Roma,Canoeing,35
-405,1960,Summer,F,Roma,Diving,36
-406,1960,Summer,F,Roma,Equestrianism,9
-407,1960,Summer,F,Roma,Fencing,113
-408,1960,Summer,F,Roma,Gymnastics,722
-409,1960,Summer,F,Roma,Sailing,1
-410,1960,Summer,F,Roma,Swimming,249
-411,1960,Summer,M,Roma,Athletics,1042
-412,1960,Summer,M,Roma,Basketball,192
-413,1960,Summer,M,Roma,Boxing,281
-414,1960,Summer,M,Roma,Canoeing,176
-415,1960,Summer,M,Roma,Cycling,423
-416,1960,Summer,M,Roma,Diving,60
-417,1960,Summer,M,Roma,Equestrianism,267
-418,1960,Summer,M,Roma,Fencing,488
-419,1960,Summer,M,Roma,Football,235
-420,1960,Summer,M,Roma,Gymnastics,1024
-421,1960,Summer,M,Roma,Hockey,236
-422,1960,Summer,M,Roma,Modern Pentathlon,111
-423,1960,Summer,M,Roma,Rowing,431
-424,1960,Summer,M,Roma,Sailing,289
-425,1960,Summer,M,Roma,Shooting,389
-426,1960,Summer,M,Roma,Swimming,381
-427,1960,Summer,M,Roma,Water Polo,150
-428,1960,Summer,M,Roma,Weightlifting,172
-429,1960,Summer,M,Roma,Wrestling,337
-442,1964,Summer,F,Tokyo,Athletics,343
-443,1964,Summer,F,Tokyo,Canoeing,33
-444,1964,Summer,F,Tokyo,Diving,45
-445,1964,Summer,F,Tokyo,Equestrianism,23
-446,1964,Summer,F,Tokyo,Fencing,86
-447,1964,Summer,F,Tokyo,Gymnastics,474
-448,1964,Summer,F,Tokyo,Sailing,1
-449,1964,Summer,F,Tokyo,Swimming,275
-450,1964,Summer,F,Tokyo,Volleyball,68
-451,1964,Summer,M,Tokyo,Athletics,992
-452,1964,Summer,M,Tokyo,Basketball,189
-453,1964,Summer,M,Tokyo,Boxing,269
-454,1964,Summer,M,Tokyo,Canoeing,134
-455,1964,Summer,M,Tokyo,Cycling,451
-456,1964,Summer,M,Tokyo,Diving,57
-457,1964,Summer,M,Tokyo,Equestrianism,201
-458,1964,Summer,M,Tokyo,Fencing,395
-459,1964,Summer,M,Tokyo,Football,214
-460,1964,Summer,M,Tokyo,Gymnastics,1010
-461,1964,Summer,M,Tokyo,Hockey,226
-462,1964,Summer,M,Tokyo,Judo,72
-463,1964,Summer,M,Tokyo,Modern Pentathlon,70
-464,1964,Summer,M,Tokyo,Rowing,378
-465,1964,Summer,M,Tokyo,Sailing,224
-466,1964,Summer,M,Tokyo,Shooting,312
-467,1964,Summer,M,Tokyo,Swimming,461
-468,1964,Summer,M,Tokyo,Volleyball,111
-469,1964,Summer,M,Tokyo,Water Polo,137
-470,1964,Summer,M,Tokyo,Weightlifting,149
-471,1964,Summer,M,Tokyo,Wrestling,302
-487,1968,Summer,F,Mexico City,Athletics,354
-488,1968,Summer,F,Mexico City,Canoeing,35
-489,1968,Summer,F,Mexico City,Diving,46
-490,1968,Summer,F,Mexico City,Equestrianism,42
-491,1968,Summer,F,Mexico City,Fencing,88
-492,1968,Summer,F,Mexico City,Gymnastics,587
-493,1968,Summer,F,Mexico City,Shooting,3
-494,1968,Summer,F,Mexico City,Swimming,535
-495,1968,Summer,F,Mexico City,Volleyball,87
-496,1968,Summer,M,Mexico City,Athletics,991
-497,1968,Summer,M,Mexico City,Basketball,191
-498,1968,Summer,M,Mexico City,Boxing,307
-499,1968,Summer,M,Mexico City,Canoeing,168
-500,1968,Summer,M,Mexico City,Cycling,483
-501,1968,Summer,M,Mexico City,Diving,63
-502,1968,Summer,M,Mexico City,Equestrianism,191
-503,1968,Summer,M,Mexico City,Fencing,402
-504,1968,Summer,M,Mexico City,Football,273
-505,1968,Summer,M,Mexico City,Gymnastics,909
-506,1968,Summer,M,Mexico City,Hockey,253
-507,1968,Summer,M,Mexico City,Modern Pentathlon,93
-508,1968,Summer,M,Mexico City,Rowing,358
-509,1968,Summer,M,Mexico City,Sailing,252
-510,1968,Summer,M,Mexico City,Shooting,407
-511,1968,Summer,M,Mexico City,Swimming,696
-512,1968,Summer,M,Mexico City,Volleyball,119
-513,1968,Summer,M,Mexico City,Water Polo,162
-514,1968,Summer,M,Mexico City,Weightlifting,160
-515,1968,Summer,M,Mexico City,Wrestling,333
-531,1972,Summer,F,Munich,Archery,40
-532,1972,Summer,F,Munich,Athletics,506
-533,1972,Summer,F,Munich,Canoeing,61
-534,1972,Summer,F,Munich,Diving,57
-535,1972,Summer,F,Munich,Equestrianism,57
-536,1972,Summer,F,Munich,Fencing,97
-537,1972,Summer,F,Munich,Gymnastics,704
-538,1972,Summer,F,Munich,Shooting,4
-539,1972,Summer,F,Munich,Swimming,576
-540,1972,Summer,F,Munich,Volleyball,91
-541,1972,Summer,M,Munich,Archery,55
-542,1972,Summer,M,Munich,Athletics,1180
-543,1972,Summer,M,Munich,Basketball,190
-544,1972,Summer,M,Munich,Boxing,354
-545,1972,Summer,M,Munich,Canoeing,298
-546,1972,Summer,M,Munich,Cycling,526
-547,1972,Summer,M,Munich,Diving,67
-548,1972,Summer,M,Munich,Equestrianism,269
-549,1972,Summer,M,Munich,Fencing,402
-550,1972,Summer,M,Munich,Football,269
-551,1972,Summer,M,Munich,Gymnastics,880
-552,1972,Summer,M,Munich,Handball,243
-553,1972,Summer,M,Munich,Hockey,263
-554,1972,Summer,M,Munich,Judo,166
-555,1972,Summer,M,Munich,Modern Pentathlon,116
-556,1972,Summer,M,Munich,Rowing,442
-557,1972,Summer,M,Munich,Sailing,323
-558,1972,Summer,M,Munich,Shooting,468
-559,1972,Summer,M,Munich,Swimming,687
-560,1972,Summer,M,Munich,Volleyball,140
-561,1972,Summer,M,Munich,Water Polo,176
-562,1972,Summer,M,Munich,Weightlifting,188
-563,1972,Summer,M,Munich,Wrestling,409
-579,1976,Summer,F,Montreal,Archery,27
-580,1976,Summer,F,Montreal,Athletics,419
-581,1976,Summer,F,Montreal,Basketball,72
-582,1976,Summer,F,Montreal,Canoeing,43
-583,1976,Summer,F,Montreal,Diving,52
-584,1976,Summer,F,Montreal,Equestrianism,45
-585,1976,Summer,F,Montreal,Fencing,109
-586,1976,Summer,F,Montreal,Gymnastics,502
-587,1976,Summer,F,Montreal,Handball,82
-588,1976,Summer,F,Montreal,Rowing,210
-589,1976,Summer,F,Montreal,Sailing,1
-590,1976,Summer,F,Montreal,Shooting,9
-591,1976,Summer,F,Montreal,Swimming,505
-592,1976,Summer,F,Montreal,Volleyball,96
-593,1976,Summer,M,Montreal,Archery,37
-594,1976,Summer,M,Montreal,Athletics,878
-595,1976,Summer,M,Montreal,Basketball,141
-596,1976,Summer,M,Montreal,Boxing,266
-597,1976,Summer,M,Montreal,Canoeing,297
-598,1976,Summer,M,Montreal,Cycling,392
-599,1976,Summer,M,Montreal,Diving,53
-600,1976,Summer,M,Montreal,Equestrianism,201
-601,1976,Summer,M,Montreal,Fencing,376
-602,1976,Summer,M,Montreal,Football,202
-603,1976,Summer,M,Montreal,Gymnastics,702
-604,1976,Summer,M,Montreal,Handball,161
-605,1976,Summer,M,Montreal,Hockey,172
-606,1976,Summer,M,Montreal,Judo,154
-607,1976,Summer,M,Montreal,Modern Pentathlon,89
-608,1976,Summer,M,Montreal,Rowing,388
-609,1976,Summer,M,Montreal,Sailing,256
-610,1976,Summer,M,Montreal,Shooting,360
-611,1976,Summer,M,Montreal,Swimming,571
-612,1976,Summer,M,Montreal,Volleyball,120
-613,1976,Summer,M,Montreal,Water Polo,131
-614,1976,Summer,M,Montreal,Weightlifting,173
-615,1976,Summer,M,Montreal,Wrestling,349
-631,1980,Summer,F,Moskva,Archery,29
-632,1980,Summer,F,Moskva,Athletics,374
-633,1980,Summer,F,Moskva,Basketball,72
-634,1980,Summer,F,Moskva,Canoeing,35
-635,1980,Summer,F,Moskva,Diving,41
-636,1980,Summer,F,Moskva,Equestrianism,15
-637,1980,Summer,F,Moskva,Fencing,78
-638,1980,Summer,F,Moskva,Gymnastics,358
-639,1980,Summer,F,Moskva,Handball,82
-640,1980,Summer,F,Moskva,Hockey,91
-641,1980,Summer,F,Moskva,Rowing,159
-642,1980,Summer,F,Moskva,Sailing,1
-643,1980,Summer,F,Moskva,Shooting,6
-644,1980,Summer,F,Moskva,Swimming,325
-645,1980,Summer,F,Moskva,Volleyball,90
-646,1980,Summer,M,Moskva,Archery,38
-647,1980,Summer,M,Moskva,Athletics,894
-648,1980,Summer,M,Moskva,Basketball,143
-649,1980,Summer,M,Moskva,Boxing,271
-650,1980,Summer,M,Moskva,Canoeing,218
-651,1980,Summer,M,Moskva,Cycling,307
-652,1980,Summer,M,Moskva,Diving,47
-653,1980,Summer,M,Moskva,Equestrianism,107
-654,1980,Summer,M,Moskva,Fencing,243
-655,1980,Summer,M,Moskva,Football,256
-656,1980,Summer,M,Moskva,Gymnastics,508
-657,1980,Summer,M,Moskva,Handball,166
-658,1980,Summer,M,Moskva,Hockey,96
-659,1980,Summer,M,Moskva,Judo,193
-660,1980,Summer,M,Moskva,Modern Pentathlon,79
-661,1980,Summer,M,Moskva,Rowing,329
-662,1980,Summer,M,Moskva,Sailing,155
-663,1980,Summer,M,Moskva,Shooting,261
-664,1980,Summer,M,Moskva,Swimming,436
-665,1980,Summer,M,Moskva,Volleyball,114
-666,1980,Summer,M,Moskva,Water Polo,132
-667,1980,Summer,M,Moskva,Weightlifting,172
-668,1980,Summer,M,Moskva,Wrestling,270
-684,1984,Summer,F,Los Angeles,Archery,47
-685,1984,Summer,F,Los Angeles,Athletics,507
-686,1984,Summer,F,Los Angeles,Basketball,71
-687,1984,Summer,F,Los Angeles,Canoeing,59
-688,1984,Summer,F,Los Angeles,Cycling,45
-689,1984,Summer,F,Los Angeles,Diving,45
-690,1984,Summer,F,Los Angeles,Equestrianism,88
-691,1984,Summer,F,Los Angeles,Fencing,90
-692,1984,Summer,F,Los Angeles,Gymnastics,379
-693,1984,Summer,F,Los Angeles,Handball,82
-694,1984,Summer,F,Los Angeles,Hockey,96
-695,1984,Summer,F,Los Angeles,Rhythmic Gymnastics,33
-696,1984,Summer,F,Los Angeles,Rowing,179
-697,1984,Summer,F,Los Angeles,Sailing,2
-698,1984,Summer,F,Los Angeles,Shooting,92
-699,1984,Summer,F,Los Angeles,Swimming,456
-700,1984,Summer,F,Los Angeles,Synchronized Swimming,86
-701,1984,Summer,F,Los Angeles,Volleyball,90
-702,1984,Summer,M,Los Angeles,Archery,62
-703,1984,Summer,M,Los Angeles,Athletics,1167
-704,1984,Summer,M,Los Angeles,Basketball,142
-705,1984,Summer,M,Los Angeles,Boxing,354
-706,1984,Summer,M,Los Angeles,Canoeing,240
-707,1984,Summer,M,Los Angeles,Cycling,430
-708,1984,Summer,M,Los Angeles,Diving,56
-709,1984,Summer,M,Los Angeles,Equestrianism,193
-710,1984,Summer,M,Los Angeles,Fencing,334
-711,1984,Summer,M,Los Angeles,Football,246
-712,1984,Summer,M,Los Angeles,Gymnastics,551
-713,1984,Summer,M,Los Angeles,Handball,177
-714,1984,Summer,M,Los Angeles,Hockey,190
-715,1984,Summer,M,Los Angeles,Judo,212
-716,1984,Summer,M,Los Angeles,Modern Pentathlon,103
-717,1984,Summer,M,Los Angeles,Rowing,286
-718,1984,Summer,M,Los Angeles,Sailing,298
-719,1984,Summer,M,Los Angeles,Shooting,447
-720,1984,Summer,M,Los Angeles,Swimming,776
-721,1984,Summer,M,Los Angeles,Volleyball,118
-722,1984,Summer,M,Los Angeles,Water Polo,153
-723,1984,Summer,M,Los Angeles,Weightlifting,186
-724,1984,Summer,M,Los Angeles,Wrestling,286
-740,1988,Summer,F,Seoul,Archery,107
-741,1988,Summer,F,Seoul,Athletics,738
-742,1988,Summer,F,Seoul,Basketball,93
-743,1988,Summer,F,Seoul,Canoeing,97
-744,1988,Summer,F,Seoul,Cycling,65
-745,1988,Summer,F,Seoul,Diving,47
-746,1988,Summer,F,Seoul,Equestrianism,99
-747,1988,Summer,F,Seoul,Fencing,105
-748,1988,Summer,F,Seoul,Gymnastics,522
-749,1988,Summer,F,Seoul,Handball,111
-750,1988,Summer,F,Seoul,Hockey,124
-751,1988,Summer,F,Seoul,Rhythmic Gymnastics,39
-752,1988,Summer,F,Seoul,Rowing,215
-753,1988,Summer,F,Seoul,Sailing,44
-754,1988,Summer,F,Seoul,Shooting,164
-755,1988,Summer,F,Seoul,Swimming,648
-756,1988,Summer,F,Seoul,Synchronized Swimming,76
-757,1988,Summer,F,Seoul,Table Tennis,78
-758,1988,Summer,F,Seoul,Tennis,76
-759,1988,Summer,F,Seoul,Volleyball,95
-760,1988,Summer,M,Seoul,Archery,150
-761,1988,Summer,M,Seoul,Athletics,1324
-762,1988,Summer,M,Seoul,Basketball,143
-763,1988,Summer,M,Seoul,Boxing,432
-764,1988,Summer,M,Seoul,Canoeing,291
-765,1988,Summer,M,Seoul,Cycling,453
-766,1988,Summer,M,Seoul,Diving,61
-767,1988,Summer,M,Seoul,Equestrianism,225
-768,1988,Summer,M,Seoul,Fencing,401
-769,1988,Summer,M,Seoul,Football,270
-770,1988,Summer,M,Seoul,Gymnastics,695
-771,1988,Summer,M,Seoul,Handball,170
-772,1988,Summer,M,Seoul,Hockey,190
-773,1988,Summer,M,Seoul,Judo,243
-774,1988,Summer,M,Seoul,Modern Pentathlon,122
-775,1988,Summer,M,Seoul,Rowing,409
-776,1988,Summer,M,Seoul,Sailing,331
-777,1988,Summer,M,Seoul,Shooting,381
-778,1988,Summer,M,Seoul,Swimming,966
-779,1988,Summer,M,Seoul,Table Tennis,128
-780,1988,Summer,M,Seoul,Tennis,126
-781,1988,Summer,M,Seoul,Volleyball,144
-782,1988,Summer,M,Seoul,Water Polo,156
-783,1988,Summer,M,Seoul,Weightlifting,226
-784,1988,Summer,M,Seoul,Wrestling,457
-800,1992,Summer,F,Barcelona,Archery,112
-801,1992,Summer,F,Barcelona,Athletics,759
-802,1992,Summer,F,Barcelona,Badminton,110
-803,1992,Summer,F,Barcelona,Basketball,94
-804,1992,Summer,F,Barcelona,Canoeing,142
-805,1992,Summer,F,Barcelona,Cycling,86
-806,1992,Summer,F,Barcelona,Diving,57
-807,1992,Summer,F,Barcelona,Equestrianism,123
-808,1992,Summer,F,Barcelona,Fencing,106
-809,1992,Summer,F,Barcelona,Gymnastics,532
-810,1992,Summer,F,Barcelona,Handball,113
-811,1992,Summer,F,Barcelona,Hockey,125
-812,1992,Summer,F,Barcelona,Judo,163
-813,1992,Summer,F,Barcelona,Rhythmic Gymnastics,42
-814,1992,Summer,F,Barcelona,Rowing,211
-815,1992,Summer,F,Barcelona,Sailing,84
-816,1992,Summer,F,Barcelona,Shooting,179
-817,1992,Summer,F,Barcelona,Swimming,658
-818,1992,Summer,F,Barcelona,Synchronized Swimming,89
-819,1992,Summer,F,Barcelona,Table Tennis,124
-820,1992,Summer,F,Barcelona,Tennis,126
-821,1992,Summer,F,Barcelona,Volleyball,89
-822,1992,Summer,M,Barcelona,Archery,135
-823,1992,Summer,M,Barcelona,Athletics,1295
-824,1992,Summer,M,Barcelona,Badminton,116
-825,1992,Summer,M,Barcelona,Baseball,160
-826,1992,Summer,M,Barcelona,Basketball,142
-827,1992,Summer,M,Barcelona,Boxing,336
-828,1992,Summer,M,Barcelona,Canoeing,445
-829,1992,Summer,M,Barcelona,Cycling,480
-830,1992,Summer,M,Barcelona,Diving,55
-831,1992,Summer,M,Barcelona,Equestrianism,281
-832,1992,Summer,M,Barcelona,Fencing,352
-833,1992,Summer,M,Barcelona,Football,272
-834,1992,Summer,M,Barcelona,Gymnastics,723
-835,1992,Summer,M,Barcelona,Handball,179
-836,1992,Summer,M,Barcelona,Hockey,189
-837,1992,Summer,M,Barcelona,Judo,270
-838,1992,Summer,M,Barcelona,Modern Pentathlon,117
-839,1992,Summer,M,Barcelona,Rowing,450
-840,1992,Summer,M,Barcelona,Sailing,357
-841,1992,Summer,M,Barcelona,Shooting,385
-842,1992,Summer,M,Barcelona,Swimming,957
-843,1992,Summer,M,Barcelona,Table Tennis,124
-844,1992,Summer,M,Barcelona,Tennis,124
-845,1992,Summer,M,Barcelona,Volleyball,142
-846,1992,Summer,M,Barcelona,Water Polo,152
-847,1992,Summer,M,Barcelona,Weightlifting,244
-848,1992,Summer,M,Barcelona,Wrestling,371
-889,1996,Summer,F,Atlanta,Archery,109
-890,1996,Summer,F,Atlanta,Athletics,896
-891,1996,Summer,F,Atlanta,Badminton,133
-892,1996,Summer,F,Atlanta,Basketball,143
-893,1996,Summer,F,Atlanta,Beach Volleyball,36
-894,1996,Summer,F,Atlanta,Canoeing,157
-895,1996,Summer,F,Atlanta,Cycling,160
-896,1996,Summer,F,Atlanta,Diving,63
-897,1996,Summer,F,Atlanta,Equestrianism,102
-898,1996,Summer,F,Atlanta,Fencing,154
-899,1996,Summer,F,Atlanta,Football,124
-900,1996,Summer,F,Atlanta,Gymnastics,576
-901,1996,Summer,F,Atlanta,Handball,118
-902,1996,Summer,F,Atlanta,Hockey,128
-903,1996,Summer,F,Atlanta,Judo,151
-904,1996,Summer,F,Atlanta,Rhythmic Gymnastics,90
-905,1996,Summer,F,Atlanta,Rowing,216
-906,1996,Summer,F,Atlanta,Sailing,100
-907,1996,Summer,F,Atlanta,Shooting,186
-908,1996,Summer,F,Atlanta,Softball,120
-909,1996,Summer,F,Atlanta,Swimming,795
-910,1996,Summer,F,Atlanta,Synchronized Swimming,72
-911,1996,Summer,F,Atlanta,Table Tennis,125
-912,1996,Summer,F,Atlanta,Tennis,120
-913,1996,Summer,F,Atlanta,Volleyball,134
-914,1996,Summer,M,Atlanta,Archery,109
-915,1996,Summer,M,Atlanta,Athletics,1490
-916,1996,Summer,M,Atlanta,Badminton,130
-917,1996,Summer,M,Atlanta,Baseball,160
-918,1996,Summer,M,Atlanta,Basketball,141
-919,1996,Summer,M,Atlanta,Beach Volleyball,48
-920,1996,Summer,M,Atlanta,Boxing,355
-921,1996,Summer,M,Atlanta,Canoeing,418
-922,1996,Summer,M,Atlanta,Cycling,424
-923,1996,Summer,M,Atlanta,Diving,76
-924,1996,Summer,M,Atlanta,Equestrianism,241
-925,1996,Summer,M,Atlanta,Fencing,234
-926,1996,Summer,M,Atlanta,Football,264
-927,1996,Summer,M,Atlanta,Gymnastics,821
-928,1996,Summer,M,Atlanta,Handball,182
-929,1996,Summer,M,Atlanta,Hockey,192
-930,1996,Summer,M,Atlanta,Judo,236
-931,1996,Summer,M,Atlanta,Modern Pentathlon,32
-932,1996,Summer,M,Atlanta,Rowing,405
-933,1996,Summer,M,Atlanta,Sailing,358
-934,1996,Summer,M,Atlanta,Shooting,426
-935,1996,Summer,M,Atlanta,Swimming,840
-936,1996,Summer,M,Atlanta,Table Tennis,126
-937,1996,Summer,M,Atlanta,Tennis,126
-938,1996,Summer,M,Atlanta,Volleyball,141
-939,1996,Summer,M,Atlanta,Water Polo,153
-940,1996,Summer,M,Atlanta,Weightlifting,243
-941,1996,Summer,M,Atlanta,Wrestling,401
-967,2000,Summer,F,Sydney,Archery,100
-968,2000,Summer,F,Sydney,Athletics,1031
-969,2000,Summer,F,Sydney,Badminton,119
-970,2000,Summer,F,Sydney,Basketball,142
-971,2000,Summer,F,Sydney,Beach Volleyball,48
-972,2000,Summer,F,Sydney,Canoeing,103
-973,2000,Summer,F,Sydney,Cycling,168
-974,2000,Summer,F,Sydney,Diving,115
-975,2000,Summer,F,Sydney,Equestrianism,100
-976,2000,Summer,F,Sydney,Fencing,134
-977,2000,Summer,F,Sydney,Football,124
-978,2000,Summer,F,Sydney,Gymnastics,502
-979,2000,Summer,F,Sydney,Handball,146
-980,2000,Summer,F,Sydney,Hockey,159
-981,2000,Summer,F,Sydney,Judo,161
-982,2000,Summer,F,Sydney,Modern Pentathlon,24
-983,2000,Summer,F,Sydney,Rhythmic Gymnastics,84
-984,2000,Summer,F,Sydney,Rowing,194
-985,2000,Summer,F,Sydney,Sailing,95
-986,2000,Summer,F,Sydney,Shooting,225
-987,2000,Summer,F,Sydney,Softball,120
-988,2000,Summer,F,Sydney,Swimming,753
-989,2000,Summer,F,Sydney,Synchronized Swimming,117
-990,2000,Summer,F,Sydney,Table Tennis,132
-991,2000,Summer,F,Sydney,Taekwondo,48
-992,2000,Summer,F,Sydney,Tennis,126
-993,2000,Summer,F,Sydney,Trampolining,12
-994,2000,Summer,F,Sydney,Triathlon,48
-995,2000,Summer,F,Sydney,Volleyball,138
-996,2000,Summer,F,Sydney,Water Polo,78
-997,2000,Summer,F,Sydney,Weightlifting,85
-998,2000,Summer,M,Sydney,Archery,106
-999,2000,Summer,M,Sydney,Athletics,1437
-1000,2000,Summer,M,Sydney,Badminton,106
-1001,2000,Summer,M,Sydney,Baseball,192
-1002,2000,Summer,M,Sydney,Basketball,144
-1003,2000,Summer,M,Sydney,Beach Volleyball,48
-1004,2000,Summer,M,Sydney,Boxing,307
-1005,2000,Summer,M,Sydney,Canoeing,345
-1006,2000,Summer,M,Sydney,Cycling,453
-1007,2000,Summer,M,Sydney,Diving,123
-1008,2000,Summer,M,Sydney,Equestrianism,195
-1009,2000,Summer,M,Sydney,Fencing,215
-1010,2000,Summer,M,Sydney,Football,267
-1011,2000,Summer,M,Sydney,Gymnastics,642
-1012,2000,Summer,M,Sydney,Handball,177
-1013,2000,Summer,M,Sydney,Hockey,191
-1014,2000,Summer,M,Sydney,Judo,237
-1015,2000,Summer,M,Sydney,Modern Pentathlon,24
-1016,2000,Summer,M,Sydney,Rowing,367
-1017,2000,Summer,M,Sydney,Sailing,307
-1018,2000,Summer,M,Sydney,Shooting,374
-1019,2000,Summer,M,Sydney,Swimming,988
-1020,2000,Summer,M,Sydney,Table Tennis,136
-1021,2000,Summer,M,Sydney,Taekwondo,54
-1022,2000,Summer,M,Sydney,Tennis,122
-1023,2000,Summer,M,Sydney,Trampolining,12
-1024,2000,Summer,M,Sydney,Triathlon,52
-1025,2000,Summer,M,Sydney,Volleyball,141
-1026,2000,Summer,M,Sydney,Water Polo,153
-1027,2000,Summer,M,Sydney,Weightlifting,161
-1028,2000,Summer,M,Sydney,Wrestling,314
-1057,2004,Summer,F,Athina,Archery,109
-1058,2004,Summer,F,Athina,Athletics,1001
-1059,2004,Summer,F,Athina,Badminton,101
-1060,2004,Summer,F,Athina,Basketball,143
-1061,2004,Summer,F,Athina,Beach Volleyball,48
-1062,2004,Summer,F,Athina,Canoeing,112
-1063,2004,Summer,F,Athina,Cycling,177
-1064,2004,Summer,F,Athina,Diving,99
-1065,2004,Summer,F,Athina,Equestrianism,118
-1066,2004,Summer,F,Athina,Fencing,119
-1067,2004,Summer,F,Athina,Football,166
-1068,2004,Summer,F,Athina,Gymnastics,507
-1069,2004,Summer,F,Athina,Handball,149
-1070,2004,Summer,F,Athina,Hockey,160
-1071,2004,Summer,F,Athina,Judo,157
-1072,2004,Summer,F,Athina,Modern Pentathlon,32
-1073,2004,Summer,F,Athina,Rhythmic Gymnastics,84
-1074,2004,Summer,F,Athina,Rowing,195
-1075,2004,Summer,F,Athina,Sailing,139
-1076,2004,Summer,F,Athina,Shooting,199
-1077,2004,Summer,F,Athina,Softball,118
-1078,2004,Summer,F,Athina,Swimming,734
-1079,2004,Summer,F,Athina,Synchronized Swimming,117
-1080,2004,Summer,F,Athina,Table Tennis,132
-1081,2004,Summer,F,Athina,Taekwondo,60
-1082,2004,Summer,F,Athina,Tennis,128
-1083,2004,Summer,F,Athina,Trampolining,16
-1084,2004,Summer,F,Athina,Triathlon,50
-1085,2004,Summer,F,Athina,Volleyball,140
-1086,2004,Summer,F,Athina,Water Polo,101
-1087,2004,Summer,F,Athina,Weightlifting,85
-1088,2004,Summer,F,Athina,Wrestling,50
-1089,2004,Summer,M,Athina,Archery,103
-1090,2004,Summer,M,Athina,Athletics,1174
-1091,2004,Summer,M,Athina,Badminton,99
-1092,2004,Summer,M,Athina,Baseball,191
-1093,2004,Summer,M,Athina,Basketball,144
-1094,2004,Summer,M,Athina,Beach Volleyball,48
-1095,2004,Summer,M,Athina,Boxing,280
-1096,2004,Summer,M,Athina,Canoeing,322
-1097,2004,Summer,M,Athina,Cycling,446
-1098,2004,Summer,M,Athina,Diving,97
-1099,2004,Summer,M,Athina,Equestrianism,253
-1100,2004,Summer,M,Athina,Fencing,204
-1101,2004,Summer,M,Athina,Football,259
-1102,2004,Summer,M,Athina,Gymnastics,644
-1103,2004,Summer,M,Athina,Handball,179
-1104,2004,Summer,M,Athina,Hockey,192
-1105,2004,Summer,M,Athina,Judo,227
-1106,2004,Summer,M,Athina,Modern Pentathlon,32
-1107,2004,Summer,M,Athina,Rowing,364
-1108,2004,Summer,M,Athina,Sailing,262
-1109,2004,Summer,M,Athina,Shooting,359
-1110,2004,Summer,M,Athina,Swimming,884
-1111,2004,Summer,M,Athina,Table Tennis,128
-1112,2004,Summer,M,Athina,Taekwondo,64
-1113,2004,Summer,M,Athina,Tennis,124
-1114,2004,Summer,M,Athina,Trampolining,16
-1115,2004,Summer,M,Athina,Triathlon,49
-1116,2004,Summer,M,Athina,Volleyball,143
-1117,2004,Summer,M,Athina,Water Polo,154
-1118,2004,Summer,M,Athina,Weightlifting,164
-1119,2004,Summer,M,Athina,Wrestling,292
-1148,2008,Summer,F,Beijing,Archery,94
-1149,2008,Summer,F,Beijing,Athletics,1068
-1150,2008,Summer,F,Beijing,Badminton,95
-1151,2008,Summer,F,Beijing,Basketball,143
-1152,2008,Summer,F,Beijing,Beach Volleyball,48
-1153,2008,Summer,F,Beijing,Canoeing,120
-1154,2008,Summer,F,Beijing,Cycling,184
-1155,2008,Summer,F,Beijing,Diving,91
-1156,2008,Summer,F,Beijing,Equestrianism,131
-1157,2008,Summer,F,Beijing,Fencing,164
-1158,2008,Summer,F,Beijing,Football,195
-1159,2008,Summer,F,Beijing,Gymnastics,435
-1160,2008,Summer,F,Beijing,Handball,171
-1161,2008,Summer,F,Beijing,Hockey,191
-1162,2008,Summer,F,Beijing,Judo,156
-1163,2008,Summer,F,Beijing,Modern Pentathlon,36
-1164,2008,Summer,F,Beijing,Rhythmic Gymnastics,95
-1165,2008,Summer,F,Beijing,Rowing,198
-1166,2008,Summer,F,Beijing,Sailing,139
-1167,2008,Summer,F,Beijing,Shooting,214
-1168,2008,Summer,F,Beijing,Softball,120
-1169,2008,Summer,F,Beijing,Swimming,830
-1170,2008,Summer,F,Beijing,Synchronized Swimming,117
-1171,2008,Summer,F,Beijing,Table Tennis,125
-1172,2008,Summer,F,Beijing,Taekwondo,63
-1173,2008,Summer,F,Beijing,Tennis,126
-1174,2008,Summer,F,Beijing,Trampolining,16
-1175,2008,Summer,F,Beijing,Triathlon,55
-1176,2008,Summer,F,Beijing,Volleyball,140
-1177,2008,Summer,F,Beijing,Water Polo,103
-1178,2008,Summer,F,Beijing,Weightlifting,87
-1179,2008,Summer,F,Beijing,Wrestling,66
-1180,2008,Summer,M,Beijing,Archery,100
-1181,2008,Summer,M,Beijing,Athletics,1176
-1182,2008,Summer,M,Beijing,Badminton,89
-1183,2008,Summer,M,Beijing,Baseball,191
-1184,2008,Summer,M,Beijing,Basketball,144
-1185,2008,Summer,M,Beijing,Beach Volleyball,48
-1186,2008,Summer,M,Beijing,Boxing,283
-1187,2008,Summer,M,Beijing,Canoeing,316
-1188,2008,Summer,M,Beijing,Cycling,468
-1189,2008,Summer,M,Beijing,Diving,91
-1190,2008,Summer,M,Beijing,Equestrianism,209
-1191,2008,Summer,M,Beijing,Fencing,168
-1192,2008,Summer,M,Beijing,Football,274
-1193,2008,Summer,M,Beijing,Gymnastics,561
-1194,2008,Summer,M,Beijing,Handball,172
-1195,2008,Summer,M,Beijing,Hockey,196
-1196,2008,Summer,M,Beijing,Judo,230
-1197,2008,Summer,M,Beijing,Modern Pentathlon,36
-1198,2008,Summer,M,Beijing,Rowing,365
-1199,2008,Summer,M,Beijing,Sailing,261
-1200,2008,Summer,M,Beijing,Shooting,363
-1201,2008,Summer,M,Beijing,Swimming,919
-1202,2008,Summer,M,Beijing,Table Tennis,125
-1203,2008,Summer,M,Beijing,Taekwondo,63
-1204,2008,Summer,M,Beijing,Tennis,128
-1205,2008,Summer,M,Beijing,Trampolining,16
-1206,2008,Summer,M,Beijing,Triathlon,55
-1207,2008,Summer,M,Beijing,Volleyball,143
-1208,2008,Summer,M,Beijing,Water Polo,153
-1209,2008,Summer,M,Beijing,Weightlifting,166
-1210,2008,Summer,M,Beijing,Wrestling,277
-1239,2012,Summer,F,London,Archery,100
-1240,2012,Summer,F,London,Athletics,1097
-1241,2012,Summer,F,London,Badminton,94
-1242,2012,Summer,F,London,Basketball,143
-1243,2012,Summer,F,London,Beach Volleyball,48
-1244,2012,Summer,F,London,Boxing,36
-1245,2012,Summer,F,London,Canoeing,153
-1246,2012,Summer,F,London,Cycling,242
-1247,2012,Summer,F,London,Diving,88
-1248,2012,Summer,F,London,Equestrianism,132
-1249,2012,Summer,F,London,Fencing,174
-1250,2012,Summer,F,London,Football,200
-1251,2012,Summer,F,London,Gymnastics,382
-1252,2012,Summer,F,London,Handball,171
-1253,2012,Summer,F,London,Hockey,191
-1254,2012,Summer,F,London,Judo,153
-1255,2012,Summer,F,London,Modern Pentathlon,36
-1256,2012,Summer,F,London,Rhythmic Gymnastics,95
-1257,2012,Summer,F,London,Rowing,197
-1258,2012,Summer,F,London,Sailing,142
-1259,2012,Summer,F,London,Shooting,229
-1260,2012,Summer,F,London,Swimming,775
-1261,2012,Summer,F,London,Synchronized Swimming,117
-1262,2012,Summer,F,London,Table Tennis,119
-1263,2012,Summer,F,London,Taekwondo,64
-1264,2012,Summer,F,London,Tennis,142
-1265,2012,Summer,F,London,Trampolining,16
-1266,2012,Summer,F,London,Triathlon,55
-1267,2012,Summer,F,London,Volleyball,143
-1268,2012,Summer,F,London,Water Polo,102
-1269,2012,Summer,F,London,Weightlifting,103
-1270,2012,Summer,F,London,Wrestling,76
-1271,2012,Summer,M,London,Archery,100
-1272,2012,Summer,M,London,Athletics,1181
-1273,2012,Summer,M,London,Badminton,88
-1274,2012,Summer,M,London,Basketball,144
-1275,2012,Summer,M,London,Beach Volleyball,48
-1276,2012,Summer,M,London,Boxing,247
-1277,2012,Summer,M,London,Canoeing,265
-1278,2012,Summer,M,London,Cycling,387
-1279,2012,Summer,M,London,Diving,93
-1280,2012,Summer,M,London,Equestrianism,218
-1281,2012,Summer,M,London,Fencing,171
-1282,2012,Summer,M,London,Football,267
-1283,2012,Summer,M,London,Gymnastics,466
-1284,2012,Summer,M,London,Handball,176
-1285,2012,Summer,M,London,Hockey,196
-1286,2012,Summer,M,London,Judo,231
-1287,2012,Summer,M,London,Modern Pentathlon,36
-1288,2012,Summer,M,London,Rowing,353
-1289,2012,Summer,M,London,Sailing,237
-1290,2012,Summer,M,London,Shooting,331
-1291,2012,Summer,M,London,Swimming,763
-1292,2012,Summer,M,London,Table Tennis,117
-1293,2012,Summer,M,London,Taekwondo,64
-1294,2012,Summer,M,London,Tennis,144
-1295,2012,Summer,M,London,Trampolining,16
-1296,2012,Summer,M,London,Triathlon,55
-1297,2012,Summer,M,London,Volleyball,144
-1298,2012,Summer,M,London,Water Polo,155
-1299,2012,Summer,M,London,Weightlifting,149
-1300,2012,Summer,M,London,Wrestling,263
-1330,2016,Summer,F,Rio de Janeiro,Archery,100
-1331,2016,Summer,F,Rio de Janeiro,Athletics,1208
-1332,2016,Summer,F,Rio de Janeiro,Badminton,88
-1333,2016,Summer,F,Rio de Janeiro,Basketball,140
-1334,2016,Summer,F,Rio de Janeiro,Beach Volleyball,48
-1335,2016,Summer,F,Rio de Janeiro,Boxing,36
-1336,2016,Summer,F,Rio de Janeiro,Canoeing,162
-1337,2016,Summer,F,Rio de Janeiro,Cycling,267
-1338,2016,Summer,F,Rio de Janeiro,Diving,89
-1339,2016,Summer,F,Rio de Janeiro,Equestrianism,131
-1340,2016,Summer,F,Rio de Janeiro,Fencing,174
-1341,2016,Summer,F,Rio de Janeiro,Football,203
-1342,2016,Summer,F,Rio de Janeiro,Golf,60
-1343,2016,Summer,F,Rio de Janeiro,Gymnastics,383
-1344,2016,Summer,F,Rio de Janeiro,Handball,176
-1345,2016,Summer,F,Rio de Janeiro,Hockey,194
-1346,2016,Summer,F,Rio de Janeiro,Judo,152
-1347,2016,Summer,F,Rio de Janeiro,Modern Pentathlon,36
-1348,2016,Summer,F,Rio de Janeiro,Rhythmic Gymnastics,96
-1349,2016,Summer,F,Rio de Janeiro,Rowing,219
-1350,2016,Summer,F,Rio de Janeiro,Rugby Sevens,148
-1351,2016,Summer,F,Rio de Janeiro,Sailing,163
-1352,2016,Summer,F,Rio de Janeiro,Shooting,214
-1353,2016,Summer,F,Rio de Janeiro,Swimming,761
-1354,2016,Summer,F,Rio de Janeiro,Synchronized Swimming,118
-1355,2016,Summer,F,Rio de Janeiro,Table Tennis,118
-1356,2016,Summer,F,Rio de Janeiro,Taekwondo,64
-1357,2016,Summer,F,Rio de Janeiro,Tennis,143
-1358,2016,Summer,F,Rio de Janeiro,Trampolining,16
-1359,2016,Summer,F,Rio de Janeiro,Triathlon,55
-1360,2016,Summer,F,Rio de Janeiro,Volleyball,142
-1361,2016,Summer,F,Rio de Janeiro,Water Polo,104
-1362,2016,Summer,F,Rio de Janeiro,Weightlifting,103
-1363,2016,Summer,F,Rio de Janeiro,Wrestling,112
-1364,2016,Summer,M,Rio de Janeiro,Archery,100
-1365,2016,Summer,M,Rio de Janeiro,Athletics,1300
-1366,2016,Summer,M,Rio de Janeiro,Badminton,89
-1367,2016,Summer,M,Rio de Janeiro,Basketball,141
-1368,2016,Summer,M,Rio de Janeiro,Beach Volleyball,48
-1369,2016,Summer,M,Rio de Janeiro,Boxing,247
-1370,2016,Summer,M,Rio de Janeiro,Canoeing,279
-1371,2016,Summer,M,Rio de Janeiro,Cycling,400
-1372,2016,Summer,M,Rio de Janeiro,Diving,89
-1373,2016,Summer,M,Rio de Janeiro,Equestrianism,224
-1374,2016,Summer,M,Rio de Janeiro,Fencing,172
-1375,2016,Summer,M,Rio de Janeiro,Football,270
-1376,2016,Summer,M,Rio de Janeiro,Golf,60
-1377,2016,Summer,M,Rio de Janeiro,Gymnastics,478
-1378,2016,Summer,M,Rio de Janeiro,Handball,177
-1379,2016,Summer,M,Rio de Janeiro,Hockey,196
-1380,2016,Summer,M,Rio de Janeiro,Judo,237
-1381,2016,Summer,M,Rio de Janeiro,Modern Pentathlon,36
-1382,2016,Summer,M,Rio de Janeiro,Rowing,331
-1383,2016,Summer,M,Rio de Janeiro,Rugby Sevens,151
-1384,2016,Summer,M,Rio de Janeiro,Sailing,217
-1385,2016,Summer,M,Rio de Janeiro,Shooting,341
-1386,2016,Summer,M,Rio de Janeiro,Swimming,807
-1387,2016,Summer,M,Rio de Janeiro,Table Tennis,118
-1388,2016,Summer,M,Rio de Janeiro,Taekwondo,62
-1389,2016,Summer,M,Rio de Janeiro,Tennis,143
-1390,2016,Summer,M,Rio de Janeiro,Trampolining,16
-1391,2016,Summer,M,Rio de Janeiro,Triathlon,55
-1392,2016,Summer,M,Rio de Janeiro,Volleyball,141
-1393,2016,Summer,M,Rio de Janeiro,Water Polo,154
-1394,2016,Summer,M,Rio de Janeiro,Weightlifting,152
-1395,2016,Summer,M,Rio de Janeiro,Wrestling,234
+,Year,Season,City,Sport,Player_Count
+0,1896,Summer,Athina,Athletics,106
+1,1896,Summer,Athina,Cycling,41
+2,1896,Summer,Athina,Fencing,15
+3,1896,Summer,Athina,Gymnastics,97
+4,1896,Summer,Athina,Shooting,65
+5,1896,Summer,Athina,Swimming,18
+6,1896,Summer,Athina,Tennis,23
+7,1896,Summer,Athina,Weightlifting,10
+8,1896,Summer,Athina,Wrestling,5
+9,1900,Summer,Paris,Archery,32
+10,1900,Summer,Paris,Athletics,234
+11,1900,Summer,Paris,Basque Pelota,2
+12,1900,Summer,Paris,Cricket,24
+13,1900,Summer,Paris,Croquet,19
+14,1900,Summer,Paris,Cycling,92
+15,1900,Summer,Paris,Equestrianism,79
+16,1900,Summer,Paris,Fencing,317
+17,1900,Summer,Paris,Football,35
+18,1900,Summer,Paris,Golf,22
+19,1900,Summer,Paris,Gymnastics,135
+20,1900,Summer,Paris,Polo,21
+21,1900,Summer,Paris,Rowing,133
+22,1900,Summer,Paris,Rugby,47
+23,1900,Summer,Paris,Sailing,280
+24,1900,Summer,Paris,Shooting,221
+25,1900,Summer,Paris,Swimming,131
+26,1900,Summer,Paris,Tennis,47
+27,1900,Summer,Paris,Tug-Of-War,12
+28,1900,Summer,Paris,Water Polo,53
+29,1904,Summer,St. Louis,Archery,70
+30,1904,Summer,St. Louis,Athletics,201
+31,1904,Summer,St. Louis,Boxing,24
+32,1904,Summer,St. Louis,Cycling,61
+33,1904,Summer,St. Louis,Diving,5
+34,1904,Summer,St. Louis,Fencing,28
+35,1904,Summer,St. Louis,Football,36
+36,1904,Summer,St. Louis,Golf,105
+37,1904,Summer,St. Louis,Gymnastics,458
+38,1904,Summer,St. Louis,Lacrosse,36
+39,1904,Summer,St. Louis,Roque,4
+40,1904,Summer,St. Louis,Rowing,46
+41,1904,Summer,St. Louis,Swimming,64
+42,1904,Summer,St. Louis,Tennis,57
+43,1904,Summer,St. Louis,Tug-Of-War,30
+44,1904,Summer,St. Louis,Water Polo,21
+45,1904,Summer,St. Louis,Weightlifting,7
+46,1904,Summer,St. Louis,Wrestling,48
+47,1906,Summer,Athina,Athletics,470
+48,1906,Summer,Athina,Cycling,138
+49,1906,Summer,Athina,Diving,24
+50,1906,Summer,Athina,Fencing,161
+51,1906,Summer,Athina,Football,45
+52,1906,Summer,Athina,Gymnastics,156
+53,1906,Summer,Athina,Rowing,200
+54,1906,Summer,Athina,Shooting,320
+55,1906,Summer,Athina,Swimming,78
+56,1906,Summer,Athina,Tennis,48
+57,1906,Summer,Athina,Tug-Of-War,32
+58,1906,Summer,Athina,Weightlifting,22
+59,1906,Summer,Athina,Wrestling,39
+60,1908,Summer,London,Archery,77
+61,1908,Summer,London,Athletics,778
+62,1908,Summer,London,Boxing,42
+63,1908,Summer,London,Cycling,269
+64,1908,Summer,London,Diving,47
+65,1908,Summer,London,Fencing,240
+66,1908,Summer,London,Figure Skating,23
+67,1908,Summer,London,Football,72
+68,1908,Summer,London,Gymnastics,349
+69,1908,Summer,London,Hockey,68
+70,1908,Summer,London,Jeu De Paume,11
+71,1908,Summer,London,Lacrosse,24
+72,1908,Summer,London,Motorboating,17
+73,1908,Summer,London,Polo,12
+74,1908,Summer,London,Racquets,12
+75,1908,Summer,London,Rowing,87
+76,1908,Summer,London,Rugby,30
+77,1908,Summer,London,Sailing,64
+78,1908,Summer,London,Shooting,444
+79,1908,Summer,London,Swimming,150
+80,1908,Summer,London,Tennis,84
+81,1908,Summer,London,Tug-Of-War,40
+82,1908,Summer,London,Water Polo,28
+83,1908,Summer,London,Wrestling,133
+84,1912,Summer,Stockholm,Art Competitions,33
+85,1912,Summer,Stockholm,Athletics,962
+86,1912,Summer,Stockholm,Cycling,242
+87,1912,Summer,Stockholm,Diving,86
+88,1912,Summer,Stockholm,Equestrianism,128
+89,1912,Summer,Stockholm,Fencing,379
+90,1912,Summer,Stockholm,Football,163
+91,1912,Summer,Stockholm,Gymnastics,310
+92,1912,Summer,Stockholm,Modern Pentathlon,32
+93,1912,Summer,Stockholm,Rowing,197
+94,1912,Summer,Stockholm,Sailing,109
+95,1912,Summer,Stockholm,Shooting,794
+96,1912,Summer,Stockholm,Swimming,201
+97,1912,Summer,Stockholm,Tennis,173
+98,1912,Summer,Stockholm,Tug-Of-War,16
+99,1912,Summer,Stockholm,Water Polo,45
+100,1912,Summer,Stockholm,Wrestling,170
+101,1920,Summer,Antwerpen,Archery,86
+102,1920,Summer,Antwerpen,Art Competitions,11
+103,1920,Summer,Antwerpen,Athletics,849
+104,1920,Summer,Antwerpen,Boxing,116
+105,1920,Summer,Antwerpen,Cycling,212
+106,1920,Summer,Antwerpen,Diving,70
+107,1920,Summer,Antwerpen,Equestrianism,132
+108,1920,Summer,Antwerpen,Fencing,350
+109,1920,Summer,Antwerpen,Figure Skating,31
+110,1920,Summer,Antwerpen,Football,190
+111,1920,Summer,Antwerpen,Gymnastics,263
+112,1920,Summer,Antwerpen,Hockey,51
+113,1920,Summer,Antwerpen,Ice Hockey,60
+114,1920,Summer,Antwerpen,Modern Pentathlon,23
+115,1920,Summer,Antwerpen,Polo,17
+116,1920,Summer,Antwerpen,Rowing,144
+117,1920,Summer,Antwerpen,Rugby,31
+118,1920,Summer,Antwerpen,Sailing,101
+119,1920,Summer,Antwerpen,Shooting,838
+120,1920,Summer,Antwerpen,Swimming,209
+121,1920,Summer,Antwerpen,Tennis,153
+122,1920,Summer,Antwerpen,Tug-Of-War,40
+123,1920,Summer,Antwerpen,Water Polo,101
+124,1920,Summer,Antwerpen,Weightlifting,53
+125,1920,Summer,Antwerpen,Wrestling,161
+126,1924,Summer,Paris,Art Competitions,318
+127,1924,Summer,Paris,Athletics,1003
+128,1924,Summer,Paris,Boxing,181
+129,1924,Summer,Paris,Cycling,249
+130,1924,Summer,Paris,Diving,90
+131,1924,Summer,Paris,Equestrianism,194
+132,1924,Summer,Paris,Fencing,424
+133,1924,Summer,Paris,Football,279
+134,1924,Summer,Paris,Gymnastics,638
+135,1924,Summer,Paris,Modern Pentathlon,38
+136,1924,Summer,Paris,Polo,24
+137,1924,Summer,Paris,Rowing,196
+138,1924,Summer,Paris,Rugby,54
+139,1924,Summer,Paris,Sailing,69
+140,1924,Summer,Paris,Shooting,508
+141,1924,Summer,Paris,Swimming,263
+142,1924,Summer,Paris,Tennis,253
+143,1924,Summer,Paris,Water Polo,101
+144,1924,Summer,Paris,Weightlifting,107
+145,1924,Summer,Paris,Wrestling,244
+156,1928,Summer,Amsterdam,Art Competitions,808
+157,1928,Summer,Amsterdam,Athletics,992
+158,1928,Summer,Amsterdam,Boxing,144
+159,1928,Summer,Amsterdam,Cycling,227
+160,1928,Summer,Amsterdam,Diving,74
+161,1928,Summer,Amsterdam,Equestrianism,232
+162,1928,Summer,Amsterdam,Fencing,430
+163,1928,Summer,Amsterdam,Football,219
+164,1928,Summer,Amsterdam,Gymnastics,664
+165,1928,Summer,Amsterdam,Hockey,137
+166,1928,Summer,Amsterdam,Modern Pentathlon,37
+167,1928,Summer,Amsterdam,Rowing,247
+168,1928,Summer,Amsterdam,Sailing,128
+169,1928,Summer,Amsterdam,Swimming,278
+170,1928,Summer,Amsterdam,Water Polo,112
+171,1928,Summer,Amsterdam,Weightlifting,94
+172,1928,Summer,Amsterdam,Wrestling,169
+181,1932,Summer,Los Angeles,Alpinism,2
+182,1932,Summer,Los Angeles,Art Competitions,1124
+183,1932,Summer,Los Angeles,Athletics,522
+184,1932,Summer,Los Angeles,Boxing,85
+185,1932,Summer,Los Angeles,Cycling,109
+186,1932,Summer,Los Angeles,Diving,36
+187,1932,Summer,Los Angeles,Equestrianism,65
+188,1932,Summer,Los Angeles,Fencing,192
+189,1932,Summer,Los Angeles,Gymnastics,147
+190,1932,Summer,Los Angeles,Hockey,40
+191,1932,Summer,Los Angeles,Modern Pentathlon,25
+192,1932,Summer,Los Angeles,Rowing,166
+193,1932,Summer,Los Angeles,Sailing,57
+194,1932,Summer,Los Angeles,Shooting,44
+195,1932,Summer,Los Angeles,Swimming,195
+196,1932,Summer,Los Angeles,Water Polo,41
+197,1932,Summer,Los Angeles,Weightlifting,29
+198,1932,Summer,Los Angeles,Wrestling,90
+206,1936,Summer,Berlin,Aeronautics,1
+207,1936,Summer,Berlin,Alpinism,2
+208,1936,Summer,Berlin,Art Competitions,813
+209,1936,Summer,Berlin,Athletics,1007
+210,1936,Summer,Berlin,Basketball,199
+211,1936,Summer,Berlin,Boxing,179
+212,1936,Summer,Berlin,Canoeing,143
+213,1936,Summer,Berlin,Cycling,301
+214,1936,Summer,Berlin,Diving,88
+215,1936,Summer,Berlin,Equestrianism,256
+216,1936,Summer,Berlin,Fencing,556
+217,1936,Summer,Berlin,Football,201
+218,1936,Summer,Berlin,Gymnastics,947
+219,1936,Summer,Berlin,Handball,105
+220,1936,Summer,Berlin,Hockey,167
+221,1936,Summer,Berlin,Modern Pentathlon,42
+222,1936,Summer,Berlin,Polo,21
+223,1936,Summer,Berlin,Rowing,348
+224,1936,Summer,Berlin,Sailing,172
+225,1936,Summer,Berlin,Shooting,162
+226,1936,Summer,Berlin,Swimming,364
+227,1936,Summer,Berlin,Water Polo,142
+228,1936,Summer,Berlin,Weightlifting,80
+229,1936,Summer,Berlin,Wrestling,210
+238,1948,Summer,London,Art Competitions,471
+239,1948,Summer,London,Athletics,1051
+240,1948,Summer,London,Basketball,287
+241,1948,Summer,London,Boxing,205
+242,1948,Summer,London,Canoeing,139
+243,1948,Summer,London,Cycling,320
+244,1948,Summer,London,Diving,84
+245,1948,Summer,London,Equestrianism,207
+246,1948,Summer,London,Fencing,508
+247,1948,Summer,London,Football,218
+248,1948,Summer,London,Gymnastics,1060
+249,1948,Summer,London,Hockey,187
+250,1948,Summer,London,Modern Pentathlon,45
+251,1948,Summer,London,Rowing,318
+252,1948,Summer,London,Sailing,186
+253,1948,Summer,London,Shooting,216
+254,1948,Summer,London,Swimming,398
+255,1948,Summer,London,Water Polo,156
+256,1948,Summer,London,Weightlifting,120
+257,1948,Summer,London,Wrestling,229
+267,1952,Summer,Helsinki,Athletics,1344
+268,1952,Summer,Helsinki,Basketball,294
+269,1952,Summer,Helsinki,Boxing,249
+270,1952,Summer,Helsinki,Canoeing,184
+271,1952,Summer,Helsinki,Cycling,389
+272,1952,Summer,Helsinki,Diving,97
+273,1952,Summer,Helsinki,Equestrianism,263
+274,1952,Summer,Helsinki,Fencing,509
+275,1952,Summer,Helsinki,Football,294
+276,1952,Summer,Helsinki,Gymnastics,2391
+277,1952,Summer,Helsinki,Hockey,157
+278,1952,Summer,Helsinki,Modern Pentathlon,99
+279,1952,Summer,Helsinki,Rowing,406
+280,1952,Summer,Helsinki,Sailing,227
+281,1952,Summer,Helsinki,Shooting,289
+282,1952,Summer,Helsinki,Swimming,483
+283,1952,Summer,Helsinki,Water Polo,191
+284,1952,Summer,Helsinki,Weightlifting,142
+285,1952,Summer,Helsinki,Wrestling,262
+294,1956,Summer,Melbourne,Athletics,1013
+295,1956,Summer,Melbourne,Basketball,169
+296,1956,Summer,Melbourne,Boxing,161
+297,1956,Summer,Melbourne,Canoeing,146
+298,1956,Summer,Melbourne,Cycling,292
+299,1956,Summer,Melbourne,Diving,82
+300,1956,Summer,Melbourne,Fencing,278
+301,1956,Summer,Melbourne,Football,143
+302,1956,Summer,Melbourne,Gymnastics,913
+303,1956,Summer,Melbourne,Hockey,173
+304,1956,Summer,Melbourne,Modern Pentathlon,76
+305,1956,Summer,Melbourne,Rowing,258
+306,1956,Summer,Melbourne,Sailing,154
+307,1956,Summer,Melbourne,Shooting,219
+308,1956,Summer,Melbourne,Swimming,356
+309,1956,Summer,Melbourne,Water Polo,96
+310,1956,Summer,Melbourne,Weightlifting,105
+311,1956,Summer,Melbourne,Wrestling,195
+312,1956,Summer,Stockholm,Equestrianism,298
+321,1960,Summer,Roma,Athletics,1312
+322,1960,Summer,Roma,Basketball,192
+323,1960,Summer,Roma,Boxing,281
+324,1960,Summer,Roma,Canoeing,211
+325,1960,Summer,Roma,Cycling,423
+326,1960,Summer,Roma,Diving,96
+327,1960,Summer,Roma,Equestrianism,276
+328,1960,Summer,Roma,Fencing,601
+329,1960,Summer,Roma,Football,235
+330,1960,Summer,Roma,Gymnastics,1746
+331,1960,Summer,Roma,Hockey,236
+332,1960,Summer,Roma,Modern Pentathlon,111
+333,1960,Summer,Roma,Rowing,431
+334,1960,Summer,Roma,Sailing,290
+335,1960,Summer,Roma,Shooting,389
+336,1960,Summer,Roma,Swimming,630
+337,1960,Summer,Roma,Water Polo,150
+338,1960,Summer,Roma,Weightlifting,172
+339,1960,Summer,Roma,Wrestling,337
+348,1964,Summer,Tokyo,Athletics,1335
+349,1964,Summer,Tokyo,Basketball,189
+350,1964,Summer,Tokyo,Boxing,269
+351,1964,Summer,Tokyo,Canoeing,167
+352,1964,Summer,Tokyo,Cycling,451
+353,1964,Summer,Tokyo,Diving,102
+354,1964,Summer,Tokyo,Equestrianism,224
+355,1964,Summer,Tokyo,Fencing,481
+356,1964,Summer,Tokyo,Football,214
+357,1964,Summer,Tokyo,Gymnastics,1484
+358,1964,Summer,Tokyo,Hockey,226
+359,1964,Summer,Tokyo,Judo,72
+360,1964,Summer,Tokyo,Modern Pentathlon,70
+361,1964,Summer,Tokyo,Rowing,378
+362,1964,Summer,Tokyo,Sailing,225
+363,1964,Summer,Tokyo,Shooting,312
+364,1964,Summer,Tokyo,Swimming,736
+365,1964,Summer,Tokyo,Volleyball,179
+366,1964,Summer,Tokyo,Water Polo,137
+367,1964,Summer,Tokyo,Weightlifting,149
+368,1964,Summer,Tokyo,Wrestling,302
+379,1968,Summer,Mexico City,Athletics,1345
+380,1968,Summer,Mexico City,Basketball,191
+381,1968,Summer,Mexico City,Boxing,307
+382,1968,Summer,Mexico City,Canoeing,203
+383,1968,Summer,Mexico City,Cycling,483
+384,1968,Summer,Mexico City,Diving,109
+385,1968,Summer,Mexico City,Equestrianism,233
+386,1968,Summer,Mexico City,Fencing,490
+387,1968,Summer,Mexico City,Football,273
+388,1968,Summer,Mexico City,Gymnastics,1496
+389,1968,Summer,Mexico City,Hockey,253
+390,1968,Summer,Mexico City,Modern Pentathlon,93
+391,1968,Summer,Mexico City,Rowing,358
+392,1968,Summer,Mexico City,Sailing,252
+393,1968,Summer,Mexico City,Shooting,410
+394,1968,Summer,Mexico City,Swimming,1231
+395,1968,Summer,Mexico City,Volleyball,206
+396,1968,Summer,Mexico City,Water Polo,162
+397,1968,Summer,Mexico City,Weightlifting,160
+398,1968,Summer,Mexico City,Wrestling,333
+409,1972,Summer,Munich,Archery,95
+410,1972,Summer,Munich,Athletics,1686
+411,1972,Summer,Munich,Basketball,190
+412,1972,Summer,Munich,Boxing,354
+413,1972,Summer,Munich,Canoeing,359
+414,1972,Summer,Munich,Cycling,526
+415,1972,Summer,Munich,Diving,124
+416,1972,Summer,Munich,Equestrianism,326
+417,1972,Summer,Munich,Fencing,499
+418,1972,Summer,Munich,Football,269
+419,1972,Summer,Munich,Gymnastics,1584
+420,1972,Summer,Munich,Handball,243
+421,1972,Summer,Munich,Hockey,263
+422,1972,Summer,Munich,Judo,166
+423,1972,Summer,Munich,Modern Pentathlon,116
+424,1972,Summer,Munich,Rowing,442
+425,1972,Summer,Munich,Sailing,323
+426,1972,Summer,Munich,Shooting,472
+427,1972,Summer,Munich,Swimming,1263
+428,1972,Summer,Munich,Volleyball,231
+429,1972,Summer,Munich,Water Polo,176
+430,1972,Summer,Munich,Weightlifting,188
+431,1972,Summer,Munich,Wrestling,409
+442,1976,Summer,Montreal,Archery,64
+443,1976,Summer,Montreal,Athletics,1297
+444,1976,Summer,Montreal,Basketball,213
+445,1976,Summer,Montreal,Boxing,266
+446,1976,Summer,Montreal,Canoeing,340
+447,1976,Summer,Montreal,Cycling,392
+448,1976,Summer,Montreal,Diving,105
+449,1976,Summer,Montreal,Equestrianism,246
+450,1976,Summer,Montreal,Fencing,485
+451,1976,Summer,Montreal,Football,202
+452,1976,Summer,Montreal,Gymnastics,1204
+453,1976,Summer,Montreal,Handball,243
+454,1976,Summer,Montreal,Hockey,172
+455,1976,Summer,Montreal,Judo,154
+456,1976,Summer,Montreal,Modern Pentathlon,89
+457,1976,Summer,Montreal,Rowing,598
+458,1976,Summer,Montreal,Sailing,257
+459,1976,Summer,Montreal,Shooting,369
+460,1976,Summer,Montreal,Swimming,1076
+461,1976,Summer,Montreal,Volleyball,216
+462,1976,Summer,Montreal,Water Polo,131
+463,1976,Summer,Montreal,Weightlifting,173
+464,1976,Summer,Montreal,Wrestling,349
+475,1980,Summer,Moskva,Archery,67
+476,1980,Summer,Moskva,Athletics,1268
+477,1980,Summer,Moskva,Basketball,215
+478,1980,Summer,Moskva,Boxing,271
+479,1980,Summer,Moskva,Canoeing,253
+480,1980,Summer,Moskva,Cycling,307
+481,1980,Summer,Moskva,Diving,88
+482,1980,Summer,Moskva,Equestrianism,122
+483,1980,Summer,Moskva,Fencing,321
+484,1980,Summer,Moskva,Football,256
+485,1980,Summer,Moskva,Gymnastics,866
+486,1980,Summer,Moskva,Handball,248
+487,1980,Summer,Moskva,Hockey,187
+488,1980,Summer,Moskva,Judo,193
+489,1980,Summer,Moskva,Modern Pentathlon,79
+490,1980,Summer,Moskva,Rowing,488
+491,1980,Summer,Moskva,Sailing,156
+492,1980,Summer,Moskva,Shooting,267
+493,1980,Summer,Moskva,Swimming,761
+494,1980,Summer,Moskva,Volleyball,204
+495,1980,Summer,Moskva,Water Polo,132
+496,1980,Summer,Moskva,Weightlifting,172
+497,1980,Summer,Moskva,Wrestling,270
+508,1984,Summer,Los Angeles,Archery,109
+509,1984,Summer,Los Angeles,Athletics,1674
+510,1984,Summer,Los Angeles,Basketball,213
+511,1984,Summer,Los Angeles,Boxing,354
+512,1984,Summer,Los Angeles,Canoeing,299
+513,1984,Summer,Los Angeles,Cycling,475
+514,1984,Summer,Los Angeles,Diving,101
+515,1984,Summer,Los Angeles,Equestrianism,281
+516,1984,Summer,Los Angeles,Fencing,424
+517,1984,Summer,Los Angeles,Football,246
+518,1984,Summer,Los Angeles,Gymnastics,930
+519,1984,Summer,Los Angeles,Handball,259
+520,1984,Summer,Los Angeles,Hockey,286
+521,1984,Summer,Los Angeles,Judo,212
+522,1984,Summer,Los Angeles,Modern Pentathlon,103
+523,1984,Summer,Los Angeles,Rhythmic Gymnastics,33
+524,1984,Summer,Los Angeles,Rowing,465
+525,1984,Summer,Los Angeles,Sailing,300
+526,1984,Summer,Los Angeles,Shooting,539
+527,1984,Summer,Los Angeles,Swimming,1232
+528,1984,Summer,Los Angeles,Synchronized Swimming,86
+529,1984,Summer,Los Angeles,Volleyball,208
+530,1984,Summer,Los Angeles,Water Polo,153
+531,1984,Summer,Los Angeles,Weightlifting,186
+532,1984,Summer,Los Angeles,Wrestling,286
+543,1988,Summer,Seoul,Archery,257
+544,1988,Summer,Seoul,Athletics,2062
+545,1988,Summer,Seoul,Basketball,236
+546,1988,Summer,Seoul,Boxing,432
+547,1988,Summer,Seoul,Canoeing,388
+548,1988,Summer,Seoul,Cycling,518
+549,1988,Summer,Seoul,Diving,108
+550,1988,Summer,Seoul,Equestrianism,324
+551,1988,Summer,Seoul,Fencing,506
+552,1988,Summer,Seoul,Football,270
+553,1988,Summer,Seoul,Gymnastics,1217
+554,1988,Summer,Seoul,Handball,281
+555,1988,Summer,Seoul,Hockey,314
+556,1988,Summer,Seoul,Judo,243
+557,1988,Summer,Seoul,Modern Pentathlon,122
+558,1988,Summer,Seoul,Rhythmic Gymnastics,39
+559,1988,Summer,Seoul,Rowing,624
+560,1988,Summer,Seoul,Sailing,375
+561,1988,Summer,Seoul,Shooting,545
+562,1988,Summer,Seoul,Swimming,1614
+563,1988,Summer,Seoul,Synchronized Swimming,76
+564,1988,Summer,Seoul,Table Tennis,206
+565,1988,Summer,Seoul,Tennis,202
+566,1988,Summer,Seoul,Volleyball,239
+567,1988,Summer,Seoul,Water Polo,156
+568,1988,Summer,Seoul,Weightlifting,226
+569,1988,Summer,Seoul,Wrestling,457
+580,1992,Summer,Barcelona,Archery,247
+581,1992,Summer,Barcelona,Athletics,2054
+582,1992,Summer,Barcelona,Badminton,226
+583,1992,Summer,Barcelona,Baseball,160
+584,1992,Summer,Barcelona,Basketball,236
+585,1992,Summer,Barcelona,Boxing,336
+586,1992,Summer,Barcelona,Canoeing,587
+587,1992,Summer,Barcelona,Cycling,566
+588,1992,Summer,Barcelona,Diving,112
+589,1992,Summer,Barcelona,Equestrianism,404
+590,1992,Summer,Barcelona,Fencing,458
+591,1992,Summer,Barcelona,Football,272
+592,1992,Summer,Barcelona,Gymnastics,1255
+593,1992,Summer,Barcelona,Handball,292
+594,1992,Summer,Barcelona,Hockey,314
+595,1992,Summer,Barcelona,Judo,433
+596,1992,Summer,Barcelona,Modern Pentathlon,117
+597,1992,Summer,Barcelona,Rhythmic Gymnastics,42
+598,1992,Summer,Barcelona,Rowing,661
+599,1992,Summer,Barcelona,Sailing,441
+600,1992,Summer,Barcelona,Shooting,564
+601,1992,Summer,Barcelona,Swimming,1615
+602,1992,Summer,Barcelona,Synchronized Swimming,89
+603,1992,Summer,Barcelona,Table Tennis,248
+604,1992,Summer,Barcelona,Tennis,250
+605,1992,Summer,Barcelona,Volleyball,231
+606,1992,Summer,Barcelona,Water Polo,152
+607,1992,Summer,Barcelona,Weightlifting,244
+608,1992,Summer,Barcelona,Wrestling,371
+633,1996,Summer,Atlanta,Archery,218
+634,1996,Summer,Atlanta,Athletics,2386
+635,1996,Summer,Atlanta,Badminton,263
+636,1996,Summer,Atlanta,Baseball,160
+637,1996,Summer,Atlanta,Basketball,284
+638,1996,Summer,Atlanta,Beach Volleyball,84
+639,1996,Summer,Atlanta,Boxing,355
+640,1996,Summer,Atlanta,Canoeing,575
+641,1996,Summer,Atlanta,Cycling,584
+642,1996,Summer,Atlanta,Diving,139
+643,1996,Summer,Atlanta,Equestrianism,343
+644,1996,Summer,Atlanta,Fencing,388
+645,1996,Summer,Atlanta,Football,388
+646,1996,Summer,Atlanta,Gymnastics,1397
+647,1996,Summer,Atlanta,Handball,300
+648,1996,Summer,Atlanta,Hockey,320
+649,1996,Summer,Atlanta,Judo,387
+650,1996,Summer,Atlanta,Modern Pentathlon,32
+651,1996,Summer,Atlanta,Rhythmic Gymnastics,90
+652,1996,Summer,Atlanta,Rowing,621
+653,1996,Summer,Atlanta,Sailing,458
+654,1996,Summer,Atlanta,Shooting,612
+655,1996,Summer,Atlanta,Softball,120
+656,1996,Summer,Atlanta,Swimming,1635
+657,1996,Summer,Atlanta,Synchronized Swimming,72
+658,1996,Summer,Atlanta,Table Tennis,251
+659,1996,Summer,Atlanta,Tennis,246
+660,1996,Summer,Atlanta,Volleyball,275
+661,1996,Summer,Atlanta,Water Polo,153
+662,1996,Summer,Atlanta,Weightlifting,243
+663,1996,Summer,Atlanta,Wrestling,401
+678,2000,Summer,Sydney,Archery,206
+679,2000,Summer,Sydney,Athletics,2468
+680,2000,Summer,Sydney,Badminton,225
+681,2000,Summer,Sydney,Baseball,192
+682,2000,Summer,Sydney,Basketball,286
+683,2000,Summer,Sydney,Beach Volleyball,96
+684,2000,Summer,Sydney,Boxing,307
+685,2000,Summer,Sydney,Canoeing,448
+686,2000,Summer,Sydney,Cycling,621
+687,2000,Summer,Sydney,Diving,238
+688,2000,Summer,Sydney,Equestrianism,295
+689,2000,Summer,Sydney,Fencing,349
+690,2000,Summer,Sydney,Football,391
+691,2000,Summer,Sydney,Gymnastics,1144
+692,2000,Summer,Sydney,Handball,323
+693,2000,Summer,Sydney,Hockey,350
+694,2000,Summer,Sydney,Judo,398
+695,2000,Summer,Sydney,Modern Pentathlon,48
+696,2000,Summer,Sydney,Rhythmic Gymnastics,84
+697,2000,Summer,Sydney,Rowing,561
+698,2000,Summer,Sydney,Sailing,402
+699,2000,Summer,Sydney,Shooting,599
+700,2000,Summer,Sydney,Softball,120
+701,2000,Summer,Sydney,Swimming,1741
+702,2000,Summer,Sydney,Synchronized Swimming,117
+703,2000,Summer,Sydney,Table Tennis,268
+704,2000,Summer,Sydney,Taekwondo,102
+705,2000,Summer,Sydney,Tennis,248
+706,2000,Summer,Sydney,Trampolining,24
+707,2000,Summer,Sydney,Triathlon,100
+708,2000,Summer,Sydney,Volleyball,279
+709,2000,Summer,Sydney,Water Polo,231
+710,2000,Summer,Sydney,Weightlifting,246
+711,2000,Summer,Sydney,Wrestling,314
+727,2004,Summer,Athina,Archery,212
+728,2004,Summer,Athina,Athletics,2175
+729,2004,Summer,Athina,Badminton,200
+730,2004,Summer,Athina,Baseball,191
+731,2004,Summer,Athina,Basketball,287
+732,2004,Summer,Athina,Beach Volleyball,96
+733,2004,Summer,Athina,Boxing,280
+734,2004,Summer,Athina,Canoeing,434
+735,2004,Summer,Athina,Cycling,623
+736,2004,Summer,Athina,Diving,196
+737,2004,Summer,Athina,Equestrianism,371
+738,2004,Summer,Athina,Fencing,323
+739,2004,Summer,Athina,Football,425
+740,2004,Summer,Athina,Gymnastics,1151
+741,2004,Summer,Athina,Handball,328
+742,2004,Summer,Athina,Hockey,352
+743,2004,Summer,Athina,Judo,384
+744,2004,Summer,Athina,Modern Pentathlon,64
+745,2004,Summer,Athina,Rhythmic Gymnastics,84
+746,2004,Summer,Athina,Rowing,559
+747,2004,Summer,Athina,Sailing,401
+748,2004,Summer,Athina,Shooting,558
+749,2004,Summer,Athina,Softball,118
+750,2004,Summer,Athina,Swimming,1618
+751,2004,Summer,Athina,Synchronized Swimming,117
+752,2004,Summer,Athina,Table Tennis,260
+753,2004,Summer,Athina,Taekwondo,124
+754,2004,Summer,Athina,Tennis,252
+755,2004,Summer,Athina,Trampolining,32
+756,2004,Summer,Athina,Triathlon,99
+757,2004,Summer,Athina,Volleyball,283
+758,2004,Summer,Athina,Water Polo,255
+759,2004,Summer,Athina,Weightlifting,249
+760,2004,Summer,Athina,Wrestling,342
+776,2008,Summer,Beijing,Archery,194
+777,2008,Summer,Beijing,Athletics,2244
+778,2008,Summer,Beijing,Badminton,184
+779,2008,Summer,Beijing,Baseball,191
+780,2008,Summer,Beijing,Basketball,287
+781,2008,Summer,Beijing,Beach Volleyball,96
+782,2008,Summer,Beijing,Boxing,283
+783,2008,Summer,Beijing,Canoeing,436
+784,2008,Summer,Beijing,Cycling,652
+785,2008,Summer,Beijing,Diving,182
+786,2008,Summer,Beijing,Equestrianism,340
+787,2008,Summer,Beijing,Fencing,332
+788,2008,Summer,Beijing,Football,469
+789,2008,Summer,Beijing,Gymnastics,996
+790,2008,Summer,Beijing,Handball,343
+791,2008,Summer,Beijing,Hockey,387
+792,2008,Summer,Beijing,Judo,386
+793,2008,Summer,Beijing,Modern Pentathlon,72
+794,2008,Summer,Beijing,Rhythmic Gymnastics,95
+795,2008,Summer,Beijing,Rowing,563
+796,2008,Summer,Beijing,Sailing,400
+797,2008,Summer,Beijing,Shooting,577
+798,2008,Summer,Beijing,Softball,120
+799,2008,Summer,Beijing,Swimming,1749
+800,2008,Summer,Beijing,Synchronized Swimming,117
+801,2008,Summer,Beijing,Table Tennis,250
+802,2008,Summer,Beijing,Taekwondo,126
+803,2008,Summer,Beijing,Tennis,254
+804,2008,Summer,Beijing,Trampolining,32
+805,2008,Summer,Beijing,Triathlon,110
+806,2008,Summer,Beijing,Volleyball,283
+807,2008,Summer,Beijing,Water Polo,256
+808,2008,Summer,Beijing,Weightlifting,253
+809,2008,Summer,Beijing,Wrestling,343
+825,2012,Summer,London,Archery,200
+826,2012,Summer,London,Athletics,2278
+827,2012,Summer,London,Badminton,182
+828,2012,Summer,London,Basketball,287
+829,2012,Summer,London,Beach Volleyball,96
+830,2012,Summer,London,Boxing,283
+831,2012,Summer,London,Canoeing,418
+832,2012,Summer,London,Cycling,629
+833,2012,Summer,London,Diving,181
+834,2012,Summer,London,Equestrianism,350
+835,2012,Summer,London,Fencing,345
+836,2012,Summer,London,Football,467
+837,2012,Summer,London,Gymnastics,848
+838,2012,Summer,London,Handball,347
+839,2012,Summer,London,Hockey,387
+840,2012,Summer,London,Judo,384
+841,2012,Summer,London,Modern Pentathlon,72
+842,2012,Summer,London,Rhythmic Gymnastics,95
+843,2012,Summer,London,Rowing,550
+844,2012,Summer,London,Sailing,379
+845,2012,Summer,London,Shooting,560
+846,2012,Summer,London,Swimming,1538
+847,2012,Summer,London,Synchronized Swimming,117
+848,2012,Summer,London,Table Tennis,236
+849,2012,Summer,London,Taekwondo,128
+850,2012,Summer,London,Tennis,286
+851,2012,Summer,London,Trampolining,32
+852,2012,Summer,London,Triathlon,110
+853,2012,Summer,London,Volleyball,287
+854,2012,Summer,London,Water Polo,257
+855,2012,Summer,London,Weightlifting,252
+856,2012,Summer,London,Wrestling,339
+872,2016,Summer,Rio de Janeiro,Archery,200
+873,2016,Summer,Rio de Janeiro,Athletics,2508
+874,2016,Summer,Rio de Janeiro,Badminton,177
+875,2016,Summer,Rio de Janeiro,Basketball,281
+876,2016,Summer,Rio de Janeiro,Beach Volleyball,96
+877,2016,Summer,Rio de Janeiro,Boxing,283
+878,2016,Summer,Rio de Janeiro,Canoeing,441
+879,2016,Summer,Rio de Janeiro,Cycling,667
+880,2016,Summer,Rio de Janeiro,Diving,178
+881,2016,Summer,Rio de Janeiro,Equestrianism,355
+882,2016,Summer,Rio de Janeiro,Fencing,346
+883,2016,Summer,Rio de Janeiro,Football,473
+884,2016,Summer,Rio de Janeiro,Golf,120
+885,2016,Summer,Rio de Janeiro,Gymnastics,861
+886,2016,Summer,Rio de Janeiro,Handball,353
+887,2016,Summer,Rio de Janeiro,Hockey,390
+888,2016,Summer,Rio de Janeiro,Judo,389
+889,2016,Summer,Rio de Janeiro,Modern Pentathlon,72
+890,2016,Summer,Rio de Janeiro,Rhythmic Gymnastics,96
+891,2016,Summer,Rio de Janeiro,Rowing,550
+892,2016,Summer,Rio de Janeiro,Rugby Sevens,299
+893,2016,Summer,Rio de Janeiro,Sailing,380
+894,2016,Summer,Rio de Janeiro,Shooting,555
+895,2016,Summer,Rio de Janeiro,Swimming,1568
+896,2016,Summer,Rio de Janeiro,Synchronized Swimming,118
+897,2016,Summer,Rio de Janeiro,Table Tennis,236
+898,2016,Summer,Rio de Janeiro,Taekwondo,126
+899,2016,Summer,Rio de Janeiro,Tennis,286
+900,2016,Summer,Rio de Janeiro,Trampolining,32
+901,2016,Summer,Rio de Janeiro,Triathlon,110
+902,2016,Summer,Rio de Janeiro,Volleyball,283
+903,2016,Summer,Rio de Janeiro,Water Polo,258
+904,2016,Summer,Rio de Janeiro,Weightlifting,255
+905,2016,Summer,Rio de Janeiro,Wrestling,346
