@@ -65,6 +65,11 @@
       </div>
     </div>
 
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <button id="ageButton" class="pure-button">Change Season</button>
+      </div>
+    </div>
 
     <!-- pure grid group -->
     <div class="pure-g">
@@ -74,25 +79,27 @@
           graph.</p>
       </div>
       <div class="pure-u-1-4">
-        <div id="vis4" class="vis-container"></div>
+        <div id="ageContainer" class="vis-container">
+               <div id="vis4" style="display: block;"></div>
+               <div id="vis5" style="display: none;"></div>
+        </div>
       </div>
     </div>
     <!-- end pure grid group -->
 
-    <!-- pure grid group -->
     <div class="pure-g">
-      <div class="pure-u-1-4">
-      </div>
-      <div class="pure-u-1-4">
-        <div id="vis5" class="vis-container"></div>
+      <div class="pure-u-1-2">
+        <button id="genderButton" class="pure-button">Change Season</button>
       </div>
     </div>
-    <!-- end pure grid group -->
 
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-4">
-        <div id="vis6" class="vis-container"></div>
+        <div id="genderContainer" class="vis-container">
+               <div id="vis6" style="display: block;"></div>
+               <div id="vis7" style="display: none;"></div>
+       </div>
       </div>
       <div class="pure-u-1-4"></div>
       <div class="pure-u-1-4"></div>
@@ -100,14 +107,6 @@
         <p style="padding: 20px; align-items: center; justify-content: center;">The chart shows the gender ratio of
           males and females each year of the Olympics. Each bar adds up to 100% and as you can see, the proportion of
           women to men participating in the Olympics is steadily increasing.</p>
-      </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-4">
-        <div id="vis7" class="vis-container"></div>
       </div>
     </div>
     <!-- end pure grid group -->
@@ -160,7 +159,41 @@ function toggleVis() {
     vis2.style.display = "block";
     vis3.style.display = "none";
   }
-} 
+}
+
+   document.getElementById("ageButton").addEventListener("click", function () {
+  toggleVis1();
+});
+
+function toggleVis1() {
+  var vis4 = document.getElementById("vis4");
+  var vis5 = document.getElementById("vis5");
+
+  if (vis4.style.display === "block") {
+    vis4.style.display = "none";
+    vis5.style.display = "block";
+  } else {
+    vis4.style.display = "block";
+    vis5.style.display = "none";
+  }
+}
+
+   document.getElementById("genderButton").addEventListener("click", function () {
+  toggleVis2();
+});
+
+function toggleVis2() {
+  var vis6 = document.getElementById("vis6");
+  var vis7 = document.getElementById("vis7");
+
+  if (vis6.style.display === "block") {
+    vis6.style.display = "none";
+    vis7.style.display = "block";
+  } else {
+    vis6.style.display = "block";
+    vis7.style.display = "none";
+  }
+}
   </script>
 </body>
 
