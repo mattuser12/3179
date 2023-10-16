@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A line graph showing the median age of players in the top sports over the years",
+    "title": "Median Age of Competitors in Winter Sports",
+    "data": {"url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Medal%20Winners.csv"},
+    "mark": {
+        "type": "line",
+        "strokeWidth": 2,
+        "point": {"filled": true, "stroke": "white", "size": 75}
+    },
+    "encoding": {
+        "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+        "y": {"field": "median_age", "type": "quantitative", "title": "Median Age"},
+        "color": {
+            "field": "Sport",
+            "type": "nominal",
+            "scale": {
+                "domain": [
+                    "Cross Country Skiing", "Alpine Skiing", "Speed Skating", "Ice Hockey", "Biathlon", "Bobsleigh", "Ski Jumping", "Figure Skating", "Short Track Speed Skating", "Luge"
+                ]
+            }
+        },
+        "tooltip": [
+            {"field": "median_age", "type": "quantitative", "title": "Median Age"},
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Sport", "type": "nominal"}
+        ],
+        "opacity": {
+            "condition": {"param": "highlight", "value": 1},
+            "value": 0.1
+        }
+    },
+    "transform": [
+        {
+            "filter": "datum.Sport == 'Cross Country Skiing' || datum.Sport == 'Alpine Skiing' || datum.Sport == 'Speed Skating' || datum.Sport == 'Ice Hockey' || datum.Sport == 'Biathlon' || datum.Sport == 'Bobsleigh' || datum.Sport == 'Ski Jumping' || datum.Sport == 'Figure Skating' || datum.Sport == 'Short Track Speed Skating' || datum.Sport == 'Luge'"
+        },
+        {
+            "aggregate": [
+                {"op": "median", "field": "Age", "as": "median_age"},
+                {"op": "q1", "field": "Age", "as": "Youngest"},
+                {"op": "q3", "field": "Age", "as": "Oldest"}
+            ],
+            "groupby": ["Year", "Sport"]
+        }
+    ],
+    "params": [
+        {
+            "name": "highlight",
+            "select": {"type": "point", "fields": ["Sport"]},
+            "bind": "legend"
+        },
+        {"name": "select", "select": "point"}
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 650,
+    "height": 400,
+    "title": {"text": "Tokyo 2021 Olympics Gender Breakdown", "fontSize": 24},
+    "data": {
+      "url": "https://raw.githubusercontent.com/mattuser12/3179/main/EntriesGender.csv"
+    },
+    "transform": [
+      {
+        "calculate": "format(datum.Male / datum.Total * 100, '.1f')",
+        "as": "Male Ratio"
+      },
+      {
+        "calculate": "format(datum.Female / datum.Total * 100, '.1f')",
+        "as": "Female Ratio"
+      },
+      {"calculate": "datum.Female * -1", "as": "FemaleCountNegative"}
+    ],
+    "params": [
+      {
+        "name": "highlight",
+        "select": {"type": "point", "fields": ["Category"]},
+        "bind": "legend"
+      }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Discipline",
+        "type": "nominal",
+        "title": "Sport",
+        "sort": "ascending"
+      },
+      "y": {
+        "field": "Male",
+        "type": "quantitative",
+        "title": "Male Athlete Count"
+      },
+      "y2": {
+        "field": "FemaleCountNegative",
+        "type": "quantitative",
+        "title": "Female Athlete Count"
+      },
+      "color": {
+        "field": "Category",
+        "type": "nominal",
+        "title": "Category",
+        "scale": {
+          "domain": ["Team", "Individual"],
+          "range": ["#2b8cbe", "#756bb1"]
+        }
+      },
+      "order": {"aggregate": "sum", "field": "Total", "type": "quantitative"},
+      "opacity": {
+        "condition": {"param": "highlight", "value": 0.6},
+        "value": 0.2
+      },
+      "tooltip": [
+        {"field": "Discipline", "type": "nominal", "title": "Sport"},
+        {
+          "field": "Male Ratio",
+          "type": "quantitative",
+          "title": "% of Athletes Male"
+        },
+        {
+          "field": "Female Ratio",
+          "type": "quantitative",
+          "title": "% of Athletes Female"
+        },
+        {"field": "Category", "type": "nominal", "title": "Category"},
+        {"field": "Male", "type": "quantitative", "title": "Male Athletes"},
+        {"field": "Female", "type": "quantitative", "title": "Female Athletes"}
+      ]
+    },
+    "config": {"axis": {"labelFontSize": 12, "titleFontSize": 16}}
+  }

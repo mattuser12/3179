@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Winter%20Olympics%20sport.csv"
+    },
+    "title": "Winter Olympics Participant Counts",
+    "mark": "rect",
+    "encoding": {
+        "y": {
+            "field": "Sport",
+            "type": "nominal",
+            "sort": {"field": "Player_Count", "op": "count", "order": "descending"}
+        },
+        "x": {
+            "field": "Year",
+            "type": "ordinal"
+        },
+        "color": {
+            "aggregate": "mean",
+            "field": "Player_Count",
+            "title": "Player Count"
+        },
+        "tooltip": [
+            {
+                "field": "Player_Count",
+                "type": "quantitative",
+                "title": "No. of Participants"
+            },
+            {
+                "field": "Sport",
+                "type": "nominal",
+                "title": "Sport"
+            },
+            {
+                "field": "Year",
+                "type": "ordinal",
+                "title": "Year"
+            },
+            {
+                "field": "City",
+                "type": "nominal",
+                "title": "Games Location"
+            }
+        ]
+    },
+    "transform": [
+        {
+            "filter": "datum.Sport == 'Cross Country Skiing' || datum.Sport == 'Alpine Skiing' || datum.Sport == 'Speed Skating' || datum.Sport == 'Ice Hockey' || datum.Sport == 'Biathlon' || datum.Sport == 'Bobsleigh' || datum.Sport == 'Ski Jumping' || datum.Sport == 'Figure Skating' || datum.Sport == 'Short Track Speed Skating' || datum.Sport == 'Luge'"
+        }
+    ],    
+    "config": {
+        "axis": {
+            "grid": true,
+            "tickBand": "extent"
+        }
+    }
+}

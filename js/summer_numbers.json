@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Olympics%20sport.csv"
+    },
+    "title": "Summer Olympics Participant Counts",
+    "mark": "rect",
+    "encoding": {
+        "y": {
+            "field": "Sport",
+            "type": "nominal",
+            "sort": {"field": "Player_Count", "op": "count", "order": "descending"}
+        },
+        "x": {
+            "field": "Year",
+            "type": "ordinal"
+        },
+        "color": {
+            "aggregate": "mean",
+            "field": "Player_Count",
+            "title": "Player Count"
+        },
+        "tooltip": [
+            {
+                "field": "Player_Count",
+                "type": "quantitative",
+                "title": "No. of Participants"
+            },
+            {
+                "field": "Sport",
+                "type": "nominal",
+                "title": "Sport"
+            },
+            {
+                "field": "Year",
+                "type": "ordinal",
+                "title": "Year"
+            },
+            {
+                "field": "City",
+                "type": "nominal",
+                "title": "Games Location"
+            }
+        ]
+    },
+    "transform": [
+        {
+            "filter": "datum.Sport == 'Athletics' || datum.Sport == 'Swimming' || datum.Sport == 'Football' || datum.Sport == 'Fencing' || datum.Sport == 'Wrestling' || datum.Sport == 'Wrestling' || datum.Sport == 'Shooting' || datum.Sport == 'Rowing' || datum.Sport == 'Cycling' || datum.Sport == 'Gymnastics' || datum.Sport == 'Sailing'"
+        }
+    ],
+    "config": {
+        "axis": {
+            "grid": true,
+            "tickBand": "extent"
+        }
+    }
+}
