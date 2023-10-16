@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 500,
+    "width": 480,
     "height": 300,
     "description": "A line graph showing the median age of players in the top sports over the years",
     "title": "Median Age of Competitors in Winter Sports",
