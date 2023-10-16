@@ -51,9 +51,8 @@
 
     <div class="pure-g">
       <div class="pure-u-1-4">
-        <div id="vis2" class="vis-container">
+        <div id="visContainer" class="vis-container">
           <div id="vis2"></div>
-          <div id="vis3"></div>
         </div>
       </div>
       <div class="pure-u-1-4"></div>
@@ -150,15 +149,15 @@
     });
 
     function toggleVis() {
-      var vis2 = document.getElementById("vis2");
-      var vis3 = document.getElementById("vis3");
+      var visContainer = document.getElementById("visContainer");
+      var currentVisualization = visContainer.firstChild; // Get the current visualization inside visContainer
 
-      if (vis2.style.display === "none" || vis2.style.display === "block") {
-        vis2.style.display = "none";
-        vis3.style.display = "block";
+      if (currentVisualization.id === "vis2") {
+        visContainer.innerHTML = ""; // Clear the content inside visContainer
+        visContainer.appendChild(document.getElementById("vis3")); // Add vis3 to visContainer
       } else {
-        vis2.style.display = "block";
-        vis3.style.display = "none";
+        visContainer.innerHTML = ""; // Clear the content inside visContainer
+        visContainer.appendChild(document.getElementById("vis2")); // Add vis2 to visContainer
       }
     }
   </script>
