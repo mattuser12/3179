@@ -3,11 +3,11 @@
     "width": 650,
     "height": 400,
     "title": {
-        "text": "Summer Olympics Gender Breakdown",
+        "text": "Winter Olympics Gender Breakdown",
         "fontSize": 24
     },
     "data": {
-        "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Ratio.csv"
+        "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Winter%20Ratio.csv"
     },
     "transform": [
         {"calculate": "datum.FemaleRatio * -1", "as": "FemaleCountNegative"},
@@ -16,7 +16,7 @@
     ],
     "layer": [
         {
-            "mark": {"type": "bar", "color": "#692a14"},
+            "mark": {"type": "bar", "color": "#145369"},
             "encoding": {
                 "y": {"field": "Year", "type": "ordinal", "title": "Year", "sort": "ascending"},
                 "x": {"field": "FemaleCountNegative", "type": "quantitative", "axis": {"format": "%"}},
@@ -28,7 +28,7 @@
             }
         },
         {
-            "mark": {"type": "bar", "color": "#2596be"},
+            "mark": {"type": "bar", "color": "#1c7594"},
             "encoding": {
                 "y": {"field": "Year", "type": "ordinal", "title": "Year", "sort": "ascending"},
                 "x": {"field": "MaleRatio", "type": "quantitative", "title": "Athlete Gender Split", "axis": {"format": "%"}},

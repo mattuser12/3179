@@ -1,0 +1,53 @@
+,Year,Season,Games,City,Player_Count,City_Repeats
+0,1896,Summer,1896 Summer,Athina,380,3
+1,1900,Summer,1900 Summer,Paris,1936,2
+2,1904,Summer,1904 Summer,St. Louis,1301,1
+3,1906,Summer,1906 Summer,Athina,1733,3
+4,1908,Summer,1908 Summer,London,3101,3
+5,1912,Summer,1912 Summer,Stockholm,4040,2
+6,1920,Summer,1920 Summer,Antwerpen,4292,1
+7,1924,Summer,1924 Summer,Paris,5233,2
+8,1924,Winter,1924 Winter,Chamonix,460,1
+9,1928,Summer,1928 Summer,Amsterdam,4992,1
+10,1928,Winter,1928 Winter,Sankt Moritz,582,2
+11,1932,Summer,1932 Summer,Los Angeles,2969,2
+12,1932,Winter,1932 Winter,Lake Placid,352,2
+13,1936,Summer,1936 Summer,Berlin,6506,1
+14,1936,Winter,1936 Winter,Garmisch-Partenkirchen,895,1
+15,1948,Summer,1948 Summer,London,6405,3
+16,1948,Winter,1948 Winter,Sankt Moritz,1075,2
+17,1952,Summer,1952 Summer,Helsinki,8270,1
+18,1952,Winter,1952 Winter,Oslo,1088,1
+19,1956,Summer,1956 Summer,Melbourne,4829,1
+20,1956,Summer,1956 Summer,Stockholm,298,2
+21,1956,Winter,1956 Winter,Cortina d'Ampezzo,1307,1
+22,1960,Summer,1960 Summer,Roma,8119,1
+23,1960,Winter,1960 Winter,Squaw Valley,1116,1
+24,1964,Summer,1964 Summer,Tokyo,7702,1
+25,1964,Winter,1964 Winter,Innsbruck,1778,2
+26,1968,Summer,1968 Summer,Mexico City,8588,1
+27,1968,Winter,1968 Winter,Grenoble,1891,1
+28,1972,Summer,1972 Summer,Munich,10304,1
+29,1972,Winter,1972 Winter,Sapporo,1655,1
+30,1976,Summer,1976 Summer,Montreal,8641,1
+31,1976,Winter,1976 Winter,Innsbruck,1861,2
+32,1980,Summer,1980 Summer,Moskva,7191,1
+33,1980,Winter,1980 Winter,Lake Placid,1746,2
+34,1984,Summer,1984 Summer,Los Angeles,9454,2
+35,1984,Winter,1984 Winter,Sarajevo,2134,1
+36,1988,Summer,1988 Summer,Seoul,12037,1
+37,1988,Winter,1988 Winter,Calgary,2639,1
+38,1992,Summer,1992 Summer,Barcelona,12977,1
+39,1992,Winter,1992 Winter,Albertville,3436,1
+40,1994,Winter,1994 Winter,Lillehammer,3160,1
+41,1996,Summer,1996 Summer,Atlanta,13780,1
+42,1998,Winter,1998 Winter,Nagano,3605,1
+43,2000,Summer,2000 Summer,Sydney,13821,1
+44,2002,Winter,2002 Winter,Salt Lake City,4109,1
+45,2004,Summer,2004 Summer,Athina,13443,3
+46,2006,Winter,2006 Winter,Torino,4382,1
+47,2008,Summer,2008 Summer,Beijing,13602,1
+48,2010,Winter,2010 Winter,Vancouver,4402,1
+49,2012,Summer,2012 Summer,London,12920,3
+50,2014,Winter,2014 Winter,Sochi,4891,1
+51,2016,Summer,2016 Summer,Rio de Janeiro,13688,1

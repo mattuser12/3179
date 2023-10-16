@@ -13,7 +13,7 @@ city_counts = players_count.groupby('City').size().reset_index(name='City_Repeat
 # Merge the city counts back to the original DataFrame
 players_count = pd.merge(players_count, city_counts, on='City', how='left')
 
-print(players_count)
+players_count.to_csv("Cities.csv", index = True)
 
 # winter_olympics.to_csv("Winter Olympics sport.csv", index=True)
 # summer_olympics.to_csv("Summer Olympics sport.csv", index=True)
