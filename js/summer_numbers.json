@@ -1,5 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600,
+    "height": 250,
     "data": {
         "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Olympics%20sport.csv"
     },
@@ -18,7 +20,10 @@
         "color": {
             "aggregate": "mean",
             "field": "Player_Count",
-            "title": "Player Count"
+            "title": "Player Count",
+            "scale": {
+                "range": ["#b08d74", "#471c0e"]
+            }
         },
         "tooltip": [
             {
@@ -51,7 +56,16 @@
     "config": {
         "axis": {
             "grid": true,
-            "tickBand": "extent"
+            "tickBand": "extent",
+            "labelFontSize": 12, 
+            "titleFontSize": 16
+        },
+        "background": "#e8f4f8",
+        "font": "Helvetica",
+        "title": {
+            "font": "Helvetica",
+            "fontSize": 20,
+            "color": "black"
         }
     }
 }

@@ -3,12 +3,11 @@
     "width": 650,
     "height": 400,
     "title": {
-        "text": "Winter Olympics Gender Breakdown",
-        "fontSize": 24
+        "text": "Winter Olympics Gender Breakdown"
     },
     "data": {
         "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Winter%20Ratio.csv"
-    },
+    },                                                                                      
     "transform": [
         {"calculate": "datum.FemaleRatio * -1", "as": "FemaleCountNegative"},
         {"calculate": "format(datum.MaleRatio, '.2f')", "as": "MaleP"},
@@ -21,9 +20,9 @@
                 "y": {"field": "Year", "type": "ordinal", "title": "Year", "sort": "ascending"},
                 "x": {"field": "FemaleCountNegative", "type": "quantitative", "axis": {"format": "%"}},
                 "tooltip": [
+                    {"field": "Year", "type": "ordinal", "title": "Year"},
                     {"field": "F", "type": "quantitative", "title": "Female Participants"},
-                    {"field": "FemaleP", "type": "quantitative", "title": "Proportion"},
-                    {"field": "Year", "type": "ordinal", "title": "Year"}
+                    {"field": "FemaleP", "type": "quantitative", "title": "Proportion"}
                 ]
             }
         },
@@ -33,14 +32,21 @@
                 "y": {"field": "Year", "type": "ordinal", "title": "Year", "sort": "ascending"},
                 "x": {"field": "MaleRatio", "type": "quantitative", "title": "Athlete Gender Split", "axis": {"format": "%"}},
                 "tooltip": [
+                    {"field": "Year", "type": "ordinal", "title": "Year"},
                     {"field": "M", "type": "quantitative", "title": "Male Participants"},
-                    {"field": "MaleP", "type": "quantitative", "title": "Proportion"},
-                    {"field": "Year", "type": "ordinal", "title": "Year"}
+                    {"field": "MaleP", "type": "quantitative", "title": "Proportion"}
                 ]
             }
         }
     ],
     "config": {
-        "axis": {"labelFontSize": 12, "titleFontSize": 16}
+        "axis": {"labelFontSize": 12, "titleFontSize": 16},
+        "background": "#e8f4f8",
+        "font": "Helvetica",
+        "title": {
+            "font": "Helvetica",
+            "fontSize": 20,
+            "color": "black"
+        }
     }
 }

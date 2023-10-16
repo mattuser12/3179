@@ -1,5 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600,
+    "height": 250,
     "data": {
         "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Winter%20Olympics%20sport.csv"
     },
@@ -18,7 +20,8 @@
         "color": {
             "aggregate": "mean",
             "field": "Player_Count",
-            "title": "Player Count"
+            "title": "Player Count",
+            "scale": {"range": ["#85c1d9", "#083c55"]}
         },
         "tooltip": [
             {
@@ -47,11 +50,20 @@
         {
             "filter": "datum.Sport == 'Cross Country Skiing' || datum.Sport == 'Alpine Skiing' || datum.Sport == 'Speed Skating' || datum.Sport == 'Ice Hockey' || datum.Sport == 'Biathlon' || datum.Sport == 'Bobsleigh' || datum.Sport == 'Ski Jumping' || datum.Sport == 'Figure Skating' || datum.Sport == 'Short Track Speed Skating' || datum.Sport == 'Luge'"
         }
-    ],    
+    ],
     "config": {
         "axis": {
             "grid": true,
-            "tickBand": "extent"
+            "tickBand": "extent",
+            "labelFontSize": 12,
+            "titleFontSize": 16
+        },
+        "background": "#e8f4f8",
+        "font": "Helvetica",
+        "title": {
+            "font": "Helvetica",
+            "fontSize": 20,
+            "color": "black"
         }
     }
 }
