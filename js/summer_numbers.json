@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
-    "height": 250,
+    "width": 450,
+    "height": 200,
     "data": {
         "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Olympics%20sport.csv"
     },

@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 650,
-    "height": 400,
+    "width": 500,
+    "height": 300,
     "description": "A line graph showing the median age of players in the top sports over the years",
     "title": "Median Age of Competitors in Summer Sports",
     "data": {"url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Medal%20Winners.csv"},

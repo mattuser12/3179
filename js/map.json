@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
+    "width": 720,
     "height": 450,
     "title": "Locations of Olympic Games",
     "projection": {"type": "equalEarth"},
@@ -23,8 +23,8 @@
                 "size": {"value": 150},
                 "color": {
                     "field": "City_Repeats",
-                    "type": "quantitative",
-                    "title": "Number of Olympics Held Here",
+                    "type": "ordinal",
+                    "title": "Total Games Held",
                     "scale": {"scheme": "reds"}
                 },
                 "tooltip": [
@@ -38,7 +38,7 @@
         }
     ],
     "config": {
-        "background": "#ADD8E6",
+        "background": "#e8f4f8",
         "title": {
             "font": "Helvetica",
             "fontSize": 24,

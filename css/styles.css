@@ -1,4 +1,4 @@
-body *{
+body * {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -12,14 +12,14 @@ body {
 
 .page {
     width: 850px;
-    background-color: white;
+    background-color: #e8f4f8;
     margin: auto;
     padding: 50px;
     padding-top: 35px;
 }
 
 .vis-container {
-    width: 100%;
+    width: 50%;
 }
 
 .description h2,
@@ -36,7 +36,11 @@ h1 {
 }
 
 .pure-g {
-    margin-bottom: 40px;
+    display: flex;
+}
+
+.pure-u-1-2 {
+    flex: 1;
 }
 
 .small-font {
