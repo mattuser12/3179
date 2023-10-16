@@ -2,76 +2,98 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 650,
     "height": 400,
-    "title": {"text": "Tokyo 2021 Olympics Gender Breakdown", "fontSize": 24},
+    "title": {
+        "text": "Tokyo 2021 Olympics Gender Breakdown",
+        "fontSize": 24
+    },
     "data": {
-      "url": "https://raw.githubusercontent.com/mattuser12/3179/main/EntriesGender.csv"
+        "url": "https://raw.githubusercontent.com/mattuser12/3179/main/data/Summer%20Ratio.csv"
     },
-    "transform": [
-      {
-        "calculate": "format(datum.Male / datum.Total * 100, '.1f')",
-        "as": "Male Ratio"
-      },
-      {
-        "calculate": "format(datum.Female / datum.Total * 100, '.1f')",
-        "as": "Female Ratio"
-      },
-      {"calculate": "datum.Female * -1", "as": "FemaleCountNegative"}
-    ],
-    "params": [
-      {
-        "name": "highlight",
-        "select": {"type": "point", "fields": ["Category"]},
-        "bind": "legend"
-      }
-    ],
     "mark": "bar",
-    "encoding": {
-      "x": {
-        "field": "Discipline",
-        "type": "nominal",
-        "title": "Sport",
-        "sort": "ascending"
-      },
-      "y": {
-        "field": "Male",
-        "type": "quantitative",
-        "title": "Male Athlete Count"
-      },
-      "y2": {
-        "field": "FemaleCountNegative",
-        "type": "quantitative",
-        "title": "Female Athlete Count"
-      },
-      "color": {
-        "field": "Category",
-        "type": "nominal",
-        "title": "Category",
-        "scale": {
-          "domain": ["Team", "Individual"],
-          "range": ["#2b8cbe", "#756bb1"]
+    "transform": [
+        {
+            "calculate": "datum.Female Ratio* -1",
+            "as": "FemaleCountNegative"
         }
-      },
-      "order": {"aggregate": "sum", "field": "Total", "type": "quantitative"},
-      "opacity": {
-        "condition": {"param": "highlight", "value": 0.6},
-        "value": 0.2
-      },
-      "tooltip": [
-        {"field": "Discipline", "type": "nominal", "title": "Sport"},
-        {
-          "field": "Male Ratio",
-          "type": "quantitative",
-          "title": "% of Athletes Male"
+    ],
+    "encoding": {
+        "x": {
+            "field": "Discipline",
+            "type": "ordinal",
+            "title": "Sport",
+            "sort": "ascending"
         },
-        {
-          "field": "Female Ratio",
-          "type": "quantitative",
-          "title": "% of Athletes Female"
+        "y": {
+            "field": "Male Ratio",
+            "type": "quantitative",
+            "title": "% of Athletes Male"
         },
-        {"field": "Category", "type": "nominal", "title": "Category"},
-        {"field": "Male", "type": "quantitative", "title": "Male Athletes"},
-        {"field": "Female", "type": "quantitative", "title": "Female Athletes"}
-      ]
+        "y2": {
+            "field": "FemaleCountNegative",
+            "type": "quantitative",
+            "title": "% of Athletes Female"
+        },
+        "order": {
+            "aggregate": "sum",
+            "field": "Total",
+            "type": "quantitative"
+        },
+        "opacity": {
+            "condition": {
+                "param": "highlight",
+                "value": 0.6
+            },
+            "value": 0.2
+        },
+        "tooltip": [
+            {
+                "field": "Discipline",
+                "type": "nominal",
+                "title": "Sport"
+            },
+            {
+                "field": "Male_Ratio",
+                "type": "quantitative",
+                "title": "% of Athletes Male"
+            },
+            {
+                "field": "Female_Ratio",
+                "type": "quantitative",
+                "title": "% of Athletes Female"
+            },
+            {
+                "field": "Category",
+                "type": "nominal",
+                "title": "Category"
+            },
+            {
+                "field": "Male",
+                "type": "quantitative",
+                "title": "Male Athletes"
+            },
+            {
+                "field": "Female",
+                "type": "quantitative",
+                "title": "Female Athletes"
+            }
+        ]
     },
-    "config": {"axis": {"labelFontSize": 12, "titleFontSize": 16}}
-  }
+    "config": {
+        "axis": {
+            "labelFontSize": 12,
+            "titleFontSize": 16
+        }
+    },
+    "params": [
+        {
+            "name": "highlight",
+            "select": {
+                "type": "point",
+                "fields": [
+                    "Category"
+                ]
+            },
+            "bind": "legend"
+        }
+    ]
+}

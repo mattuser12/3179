@@ -8,8 +8,8 @@ df = df.drop(df.index[0])
 
 df_pivot = df.pivot_table(index=['Year', 'Season'], columns='Sex', values='Count').reset_index()
 
-df_pivot['Male Ratio'] = df_pivot['M'] / (df_pivot['M'] + df_pivot['F'])
-df_pivot['Female Ratio'] = df_pivot['F'] / (df_pivot['M'] + df_pivot['F'])
+df_pivot['MaleRatio'] = df_pivot['M'] / (df_pivot['M'] + df_pivot['F'])
+df_pivot['FemaleRatio'] = df_pivot['F'] / (df_pivot['M'] + df_pivot['F'])
 
 summer_df = df_pivot[df_pivot['Season'] == 'Summer']
 winter_df = df_pivot[df_pivot['Season'] == 'Winter']
